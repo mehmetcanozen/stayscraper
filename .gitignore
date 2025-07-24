@@ -1,0 +1,12 @@
+node_modules/
+dist/
+.env.development
+.env.production
+.cursorignore
+*.log
+logs/
+.DS_Store
+Thumbs.db
+reviews/
+instructions/
+package-lock.json 
