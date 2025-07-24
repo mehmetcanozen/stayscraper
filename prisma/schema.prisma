@@ -1,0 +1,77 @@
+// prisma/schema.prisma
+
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+// Hotel Model: Represents a unique hotel in our system, independent of OTA specifics.
+// It can be "my hotel" or a competitor hotel.
+model Hotel {
+  id                String             @id @default(uuid())
+  name              String             // Common name of the hotel
+  address           String?            // General address
+  city              String
+  country           String
+  region            String?            // e.g., "Side", "Belek" (from Etstur data)
+  latitude          Float?             // Geographic coordinates
+  longitude         Float?             // Geographic coordinates
+  score             Float?             // Numerical rating (e.g., 8.5/10)
+  totalComments     Int?               // Number of comments/reviews
+  themes            String[]           // Array of themes/facilities (e.g., "Beachfront", "Family Friendly")
+  isManagedInternally Boolean         @default(false) // True if this is "my hotel" or manually managed, false for scraped competitors
+
+  createdAt         DateTime           @default(now())
+  updatedAt         DateTime           @updatedAt
+
+  priceEntries      PriceEntry[]       // All price entries for this hotel across all OTAs
+  watchedUrls       WatchedHotelUrl[]  // Specific URLs used to scrape this hotel from various OTAs
+
+  @@map("hotels") // Maps this model to a table named 'hotels' in the database
+}
+
+// WatchedHotelUrl Model: Links a Hotel in our system to its specific URL on a particular OTA.
+// This is crucial for configuring which competitor hotels to scrape.
+model WatchedHotelUrl {
+  id           String    @id @default(uuid())
+  hotelId      String
+  hotel        Hotel     @relation(fields: [hotelId], references: [id]) // Establishes relationship to the Hotel model
+  otaName      String    // The name of the OTA (e.g., "Etstur", "Tatilbudur")
+  otaHotelId   String    // The unique ID of the hotel on that specific OTA (e.g., Etstur's internal hotel ID)
+  url          String    // The full URL used to scrape this specific hotel on this OTA
+
+  createdAt    DateTime  @default(now())
+  updatedAt    DateTime  @updatedAt
+
+  @@unique([otaName, otaHotelId]) // Ensures a specific hotel on a specific OTA is only watched once
+  @@map("watched_hotel_urls") // Maps to 'watched_hotel_urls' table
+}
+
+// PriceEntry Model: Stores a single scraped price point.
+model PriceEntry {
+  id              String    @id @default(uuid())
+  hotelId         String
+  hotel           Hotel     @relation(fields: [hotelId], references: [id]) // Relationship to the Hotel model
+
+  scrapeDate      DateTime  @default(now()) // When this price was scraped
+  checkInDate     DateTime
+  checkOutDate    DateTime
+  price           Float     // The scraped price
+  currency        String    // e.g., "TRY", "USD"
+  roomType        String?   // e.g., "Standard Double", "Suite"
+  boardBasis      String?   // e.g., "Bed & Breakfast", "Half Board", "All Inclusive"
+  occupancy       Int?      // e.g., 2 for two adults
+  otaName         String    // The OTA from which this price was scraped (e.g., "Etstur", "Tatilbudur")
+  url             String?   // Direct URL to the hotel listing on the OTA for this specific price offer (optional)
+  discountRate    Float?    // If the OTA provides a discount rate (e.g., 0.1 for 10%)
+  totalNights     Int?      // The number of nights for this price offer
+
+  createdAt       DateTime  @default(now())
+  updatedAt       DateTime  @updatedAt
+
+  @@map("price_entries") // Maps to 'price_entries' table
+}
