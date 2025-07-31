@@ -1,0 +1,1354 @@
+{
+  "success": true,
+  "errorCode": null,
+  "errorMessage": null,
+  "result": {
+    "roomSearchId": "62674e1f-cef2-43ad-bdc7-b01a619e9356",
+    "earlyBookingInsuranceAvailable": true,
+    "rooms": [
+      {
+        "roomId": "35032",
+        "roomName": "Deluxe Şehir Manzaralı Balkonlu Oda",
+        "description": "&lt;p&gt;Deluxe Şehir Manzaralı Balkonlu Odalar 28&amp;nbsp;m&amp;sup2; b&amp;uuml;y&amp;uuml;kl&amp;uuml;ğ&amp;uuml;nde. Odalarda &amp;ccedil;ift kişilik tek yatak ve tek kişilik tek yatak bulunuyor.&lt;/p&gt;\r\n",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298382.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Espresso Makinesi",
+            "paid": false,
+            "description": "özel kapsüllü"
+          },
+          {
+            "label": "Buklet Banyo Ürünleri",
+            "paid": false,
+            "description": "Molton Brown ürünleri"
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": "ve düzleştirici"
+          },
+          {
+            "label": "Banyo Telefonu*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Banyo",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Elektronik Anahtar Sistemi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kasa",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi-24 Saat*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Müzik Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Temizlik Hizmeti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Uyandırma Servisi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Makyaj Aynası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ütü Ekipmanı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "LCD TV",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ütü Masası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Baskül",
+            "paid": false,
+            "description": "Elektronik"
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Su Isıtıcısı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Çay / Kahve Seti",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": {
+          "currency": "TL",
+          "amount": 21375,
+          "discountedPrice": null,
+          "discountRate": null
+        },
+        "subBoards": [
+          {
+            "id": "96swr027ayht1919202509012025090925Sales3g7iof8uof3a0nrb8k21z1nvgx9hbcs62zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "priceCode": "96|swr027ayht19|19|2025-09-01|2025-09-09|2-5|Sales|3g7iof8uof3a0nrb8k21z1nvgx9hbcs6|2zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.057376026",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 400000,
+              "discountedPrice": 180000,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 11,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 22500
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [
+              {
+                "icon": "faChildren",
+                "label": "1 Çocuk İçin Ücretsiz",
+                "description": null,
+                "type": "CHILD_CAMPAIGN",
+                "info": "5 yaş 1 çocuk için konaklama ücretsiz. Çocuk misafirlere özel sunulan indirimli konaklama fırsatı, gösterilen fiyat üzerinde uygulandı."
+              }
+            ],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 171000,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "270115",
+        "roomName": "Superior Şehir Manzaralı Balkonlu Oda",
+        "description": "&lt;p&gt;Superior Şehir Manzaralı Balkonlu Odalar 32 m&amp;sup2; b&amp;uuml;y&amp;uuml;kl&amp;uuml;ğ&amp;uuml;ndedir. Odalarda bir &amp;ccedil;ift kişilik yatak ve bir sofabed bulunuyor.&lt;/p&gt;\r\n",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20250424100421_0.jpeg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20250424101314_0.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Espresso Makinesi",
+            "paid": false,
+            "description": "Kapsüllü"
+          },
+          {
+            "label": "Su Isıtıcısı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Çay / Kahve Seti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "WC",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Buklet Banyo Ürünleri",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": "ve saç düzleştiricisi"
+          },
+          {
+            "label": "Banyo Telefonu*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Banyo",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Makyaj Aynası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ütü Ekipmanı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ütü Masası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": {
+          "currency": "TL",
+          "amount": 22101.75,
+          "discountedPrice": null,
+          "discountRate": null
+        },
+        "subBoards": [
+          {
+            "id": "96swr027ayht1919202509012025090925Sales3g7iof2cr6uukqx76w324hxf4vsm2f8962zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "priceCode": "96|swr027ayht19|19|2025-09-01|2025-09-09|2-5|Sales|3g7iof2cr6uukqx76w324hxf4vsm2f896|2zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.055169949",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 413600,
+              "discountedPrice": 186120,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 20,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 23265
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [
+              {
+                "icon": "faChildren",
+                "label": "1 Çocuk İçin Ücretsiz",
+                "description": null,
+                "type": "CHILD_CAMPAIGN",
+                "info": "5 yaş 1 çocuk için konaklama ücretsiz. Çocuk misafirlere özel sunulan indirimli konaklama fırsatı, gösterilen fiyat üzerinde uygulandı."
+              }
+            ],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 176814,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "35033",
+        "roomName": "Deluxe Deniz Manzaralı Balkonlu Oda",
+        "description": "&lt;p&gt;Deluxe Deniz Manzaralı Balkonlu Odalar 28&amp;nbsp;m&amp;sup2; b&amp;uuml;y&amp;uuml;kl&amp;uuml;ğ&amp;uuml;ndedir. Odalarda &amp;ccedil;ift kişilik tek yatak ve tek kişilik tek yatak bulunuyor.&lt;/p&gt;\r\n",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20250527094818_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20250527094819_1.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20250527094820_2.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Duş",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": "ve düzleştirici"
+          },
+          {
+            "label": "Banyo",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Elektronik Anahtar Sistemi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Müzik Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Temizlik Hizmeti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Uyandırma Servisi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Makyaj Aynası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ütü Ekipmanı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "LCD TV",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ütü Masası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Baskül",
+            "paid": false,
+            "description": "Elektronik"
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Espresso Makinesi",
+            "paid": false,
+            "description": "özel kapsüllü"
+          },
+          {
+            "label": "Buklet Banyo Ürünleri",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": {
+          "currency": "TL",
+          "amount": 22657.5,
+          "discountedPrice": null,
+          "discountRate": null
+        },
+        "subBoards": [
+          {
+            "id": "96swr027ayht1919202509012025090925Sales3g7iofmotyhpc5apua29gxdob4jzx8162zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "priceCode": "96|swr027ayht19|19|2025-09-01|2025-09-09|2-5|Sales|3g7iofmotyhpc5apua29gxdob4jzx816|2zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.058092097",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 424000,
+              "discountedPrice": 190800,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 34,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 23850
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [
+              {
+                "icon": "faChildren",
+                "label": "1 Çocuk İçin Ücretsiz",
+                "description": null,
+                "type": "CHILD_CAMPAIGN",
+                "info": "5 yaş 1 çocuk için konaklama ücretsiz. Çocuk misafirlere özel sunulan indirimli konaklama fırsatı, gösterilen fiyat üzerinde uygulandı."
+              }
+            ],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 181260,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "6904",
+        "roomName": "Deluxe Junior Suite Balkonlu Oda",
+        "description": null,
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298370.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298371.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298373.jpg"
+        ],
+        "facilities": [],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": {
+          "currency": "TL",
+          "amount": 32047.54,
+          "discountedPrice": null,
+          "discountRate": null
+        },
+        "subBoards": [
+          {
+            "id": "96swr027ayht1919202509012025090925Sales3g7iof24b9u8dwisztt2gv7pf07tvdtx62zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "priceCode": "96|swr027ayht19|19|2025-09-01|2025-09-09|2-5|Sales|3g7iof24b9u8dwisztt2gv7pf07tvdtx6|2zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.056020661",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 599720,
+              "discountedPrice": 269874,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 9,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 33734.25
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [
+              {
+                "icon": "faChildren",
+                "label": "1 Çocuk İçin Ücretsiz",
+                "description": null,
+                "type": "CHILD_CAMPAIGN",
+                "info": "5 yaş 1 çocuk için konaklama ücretsiz. Çocuk misafirlere özel sunulan indirimli konaklama fırsatı, gösterilen fiyat üzerinde uygulandı."
+              }
+            ],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 256380.3,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "5269",
+        "roomName": "Deluxe Aile Dubleks Deniz Manzaralı Balkonlu Oda",
+        "description": null,
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-364799.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-364796.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-364798.jpg"
+        ],
+        "facilities": [],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": {
+          "currency": "TL",
+          "amount": 37384.88,
+          "discountedPrice": null,
+          "discountRate": null
+        },
+        "subBoards": [
+          {
+            "id": "96swr027ayht1919202509012025090925Sales3g7iofiwzk7gflgfw32jjyfuwmrjzag62zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "priceCode": "96|swr027ayht19|19|2025-09-01|2025-09-09|2-5|Sales|3g7iofiwzk7gflgfw32jjyfuwmrjzag6|2zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.054333739",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 699600,
+              "discountedPrice": 314820,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 4,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 39352.5
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [
+              {
+                "icon": "faChildren",
+                "label": "1 Çocuk İçin Ücretsiz",
+                "description": null,
+                "type": "CHILD_CAMPAIGN",
+                "info": "5 yaş 1 çocuk için konaklama ücretsiz. Çocuk misafirlere özel sunulan indirimli konaklama fırsatı, gösterilen fiyat üzerinde uygulandı."
+              }
+            ],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 299079,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "8029",
+        "roomName": "Deluxe Royal Suit Deniz Manzaralı Balkonlu Oda",
+        "description": null,
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298378.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298377.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298376.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50693/m/Concorde-De-Luxe-Resort-Oda-298375.jpg"
+        ],
+        "facilities": [],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": {
+          "currency": "TL",
+          "amount": 73636.88,
+          "discountedPrice": null,
+          "discountRate": null
+        },
+        "subBoards": [
+          {
+            "id": "96swr027ayht1919202509012025090925Sales3g7iofr235he63g2yq2lahehstxcp1c62zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "priceCode": "96|swr027ayht19|19|2025-09-01|2025-09-09|2-5|Sales|3g7iofr235he63g2yq2lahehstxcp1c6|2zhnzy2576mzg01dxkg2jiw29e7ueynu6",
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.059886585",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 1378000,
+              "discountedPrice": 620100,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 1,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 77512.5
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [
+              {
+                "icon": "faChildren",
+                "label": "1 Çocuk İçin Ücretsiz",
+                "description": null,
+                "type": "CHILD_CAMPAIGN",
+                "info": "5 yaş 1 çocuk için konaklama ücretsiz. Çocuk misafirlere özel sunulan indirimli konaklama fırsatı, gösterilen fiyat üzerinde uygulandı."
+              }
+            ],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 589095,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "978",
+        "roomName": "Deluxe Aile Suit Deniz Manzaralı Balkonlu Oda",
+        "description": null,
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171543_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171543_1.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171543_2.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171612_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171612_1.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171646_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171646_1.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171646_2.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171718_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225171718_1.jpg"
+        ],
+        "facilities": [],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": null,
+        "subBoards": [
+          {
+            "id": null,
+            "priceCode": null,
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.053385301",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 742000,
+              "discountedPrice": 333900,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "NOT_AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 2,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 41737.5
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 317205,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "8027",
+        "roomName": "Deluxe Grand Suit Deniz Manzaralı Balkonlu Oda",
+        "description": null,
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172738_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172704_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172704_1.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172704_2.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172738_1.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172821_0.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172821_1.jpg",
+          "https://images.etstur.com/imgproxy/resize/800x450/files/images/hotelImages/etsrooms/96/Concorde_De_Luxe_Resort_20241225172821_2.jpg"
+        ],
+        "facilities": [],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": null,
+        "subBoards": [
+          {
+            "id": null,
+            "priceCode": null,
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:03.059152437",
+                "to": "2025-09-01T15:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 975200,
+              "discountedPrice": 438840,
+              "discountRate": 55
+            },
+            "availability": {
+              "type": "NOT_AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 0,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 54855
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 416898,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      }
+    ],
+    "minPrice": {
+      "currency": "TL",
+      "amount": 171000,
+      "discountedPrice": null,
+      "discountRate": 0
+    },
+    "includeTaxes": false,
+    "flightPackage": false,
+    "noDates": false,
+    "promotions": [
+      {
+        "id": 1,
+        "badgeType": "SPONSOR_BANK",
+        "type": "BONUS_MAX_DISCOUNT_RATE",
+        "name": "Maximum ile %55'e Varan Yaz Fırsatı İndirimi",
+        "description": {
+          "tag": "Maximum ile %55'e Varan Yaz Fırsatı İndirimi",
+          "desc": [
+            "ETS’nin yaz fırsatlarıyla tatilinizi erkenden planlayarak daha az ödeyebilirsiniz. Yaz fırsatı indirimleri, 1 Nisan - 31 Ekim tarihleri arasında seçili yurt içi otellerinde yapılacak konaklamalarda geçerlidir. Maximum Kart sahibi değilseniz, yaz fırsatında Maximum’a özel fırsatlardan yararlanmak için hemen başvurun!"
+          ]
+        },
+        "imageUrl": "/assets/web/payment/maximum.svg",
+        "icon": "fa-regular fa-party-horn"
+      }
+    ],
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-09"
+  }
+}

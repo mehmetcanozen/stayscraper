@@ -1,0 +1,26 @@
+{
+  "compilerOptions": {
+    "target": "ES2022",                                  /* Specify ECMAScript target version: "ES3" (default), "ES5", "ES2015", "ES2016", "ES2017", "ES2018", "ES2019", "ES2020", "ES2021", "ES2022", "ESNext". */
+    "module": "CommonJS",                                /* Specify module code generation: "None", "CommonJS", "AMD", "System", "UMD", "ES6", "ES2015", "ES2020", "ES2022", "ESNext", "Node16", "NodeNext". */
+    "outDir": "./dist",                                  /* Redirect output structure to the directory. */
+    "rootDir": "./src",                                  /* Specify the root directory of input files. Use to control the output directory structure with --outDir. */
+    "strict": true,                                      /* Enable all strict type-checking options. */
+    "esModuleInterop": true,                             /* Emit additional JavaScript to ease support for importing CommonJS modules. This enables 'allowSyntheticDefaultImports' for type compatibility. */
+    "skipLibCheck": true,                                /* Skip type checking all .d.ts files. */
+    "forceConsistentCasingInFileNames": true,            /* Ensure that casing is correct in imports. */
+    "resolveJsonModule": true,                           /* Allow importing .json files (e.g., for config). */
+    "baseUrl": "./",                                     /* Base directory to resolve non-relative module names. */
+    "paths": {                                           /* A series of entries which re-map imports to lookup locations relative to the 'baseUrl'. */
+      "@config/*": ["src/config/*"],
+      "@api/*": ["src/api/*"],
+      "@data/*": ["src/data/*"],
+      "@domain/*": ["src/domain/*"],
+      "@middleware/*": ["src/middleware/*"],
+      "@models/*": ["src/models/*"],
+      "@services/*": ["src/services/*"],
+      "@utils/*": ["src/utils/*"]
+    }
+  },
+  "include": ["src/**/*.ts", "src/**/*.json", "src/**/*.js"], /* Include specific files or patterns */
+  "exclude": ["node_modules", "dist", "tests"]          /* Exclude specific files or patterns */
+}

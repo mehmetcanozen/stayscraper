@@ -1,0 +1,41 @@
+{
+  "timestamp": "2025-07-30T16:40:41.585Z",
+  "hotelSlug": "marti-myra-kemer",
+  "checkIn": "2025-07-31",
+  "checkOut": "2025-08-14",
+  "totalRooms": 8,
+  "rooms": [
+    {
+      "name": "Superior Deluxe Oda",
+      "price": "273.015,68 ₺"
+    },
+    {
+      "name": "Deluxe Lifestyle",
+      "price": "327.618,90 ₺"
+    },
+    {
+      "name": "Deluxe Dublex",
+      "price": "385.783,30 ₺"
+    },
+    {
+      "name": "Superior Family",
+      "price": "415.458,68 ₺"
+    },
+    {
+      "name": "Superior Deluxe Family",
+      "price": "477.777,44 ₺"
+    },
+    {
+      "name": "Deluxe Lifestyle Family",
+      "price": "573.333,18 ₺"
+    },
+    {
+      "name": "Blokajı Tesise Ait Oda",
+      "price": "224.910,00 ₺"
+    },
+    {
+      "name": "Superior Oda",
+      "price": "237.405,00 ₺"
+    }
+  ]
+}

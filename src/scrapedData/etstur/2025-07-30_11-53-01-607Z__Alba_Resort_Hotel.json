@@ -1,0 +1,997 @@
+{
+  "success": true,
+  "errorCode": null,
+  "errorMessage": null,
+  "result": {
+    "roomSearchId": "e65c84ab-8cc3-4cd0-b37f-674be08ecc9d",
+    "earlyBookingInsuranceAvailable": true,
+    "rooms": [
+      {
+        "roomId": "224496",
+        "roomName": "Standart Kara Manzaralı",
+        "description": "&lt;p&gt;Standart Kara Manzaralı odalar 26 m&amp;sup2; b&amp;uuml;y&amp;uuml;kl&amp;uuml;ğ&amp;uuml;ndedir. Odalarda &amp;ccedil;ift kişilik tek yatak veya tek kişilik iki ayrı yatak bulunuyor.&lt;/p&gt;\r\n",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355478.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355477.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Duş",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Banyo",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kasa*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Müzik Yayını",
+            "paid": false,
+            "description": "TV den"
+          },
+          {
+            "label": "Temizlik Hizmeti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "LCD TV",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": "Ücretsiz"
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Su Isıtıcısı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Çay / Kahve Seti",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": {
+          "currency": "TL",
+          "amount": 12982.32,
+          "discountedPrice": null,
+          "discountRate": null
+        },
+        "subBoards": [
+          {
+            "id": "1194sww32wnbdjqf19202509012025090925Sales3g7iot3dd8fxpbc17bm1zgatc7hjjd8v62zho0a2bkplzlcwiv4b2awlqpdqzyju56",
+            "priceCode": "1194|sww32wnbdjqf|19|2025-09-01|2025-09-09|2-5|Sales|3g7iot3dd8fxpbc17bm1zgatc7hjjd8v6|2zho0a2bkplzlcwiv4b2awlqpdqzyju56",
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:17.686971",
+                "to": "2025-09-01T14:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 149760,
+              "discountedPrice": 109324.8,
+              "discountRate": 27
+            },
+            "availability": {
+              "type": "AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 16,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 13665.6
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [
+              {
+                "icon": "faChildren",
+                "label": "1 Çocuk İçin Ücretsiz",
+                "description": null,
+                "type": "CHILD_CAMPAIGN",
+                "info": "5 yaş 1 çocuk için konaklama ücretsiz. Çocuk misafirlere özel sunulan indirimli konaklama fırsatı, gösterilen fiyat üzerinde uygulandı."
+              }
+            ],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 103858.56,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "224499",
+        "roomName": "Aile Odası Tek Banyolu",
+        "description": "&lt;p&gt;Aile Odası Tek Banyolu Odalar&amp;nbsp;41 m&amp;sup2; b&amp;uuml;y&amp;uuml;kl&amp;uuml;ğ&amp;uuml;ndedir. Odalarda &amp;ccedil;ift kişilik tek yatak ve tek kişilik ayrı yatak ile a&amp;ccedil;ılır kapanır kanepe bulunuyor.&lt;/p&gt;\r\n",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366265.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366264.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366266.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366267.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366268.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366270.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366269.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Duş",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Banyo",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kasa*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Müzik Yayını",
+            "paid": false,
+            "description": "TV den"
+          },
+          {
+            "label": "2 Yatak Odası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ara Kapılı Aile Odası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Temizlik Hizmeti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "LCD TV",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": "Ücretsiz"
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Su Isıtıcısı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Çay / Kahve Seti",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": null,
+        "subBoards": [
+          {
+            "id": null,
+            "priceCode": null,
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:17.68525",
+                "to": "2025-09-01T14:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 229848,
+              "discountedPrice": 167789.04,
+              "discountRate": 27
+            },
+            "availability": {
+              "type": "NOT_AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 9,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 20973.63
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 159399.59,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "224498",
+        "roomName": "Standart Deniz Manzaralı",
+        "description": "&lt;p&gt;Standart Deniz Manzaralı odalar 26 m&amp;sup2; b&amp;uuml;y&amp;uuml;kl&amp;uuml;ğ&amp;uuml;ndedir. Odalarda &amp;ccedil;ift kişilik tek yatak veya tek kişilik iki ayrı yatak bulunuyor.&lt;/p&gt;\r\n",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355478.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355477.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kasa*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Müzik Yayını",
+            "paid": false,
+            "description": "TV den"
+          },
+          {
+            "label": "Temizlik Hizmeti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "LCD TV",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": "Ücretsiz"
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Su Isıtıcısı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Çay / Kahve Seti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duş",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Banyo",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": null,
+        "subBoards": [
+          {
+            "id": null,
+            "priceCode": null,
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:17.686233",
+                "to": "2025-09-01T14:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 155552,
+              "discountedPrice": 113552.96,
+              "discountRate": 27
+            },
+            "availability": {
+              "type": "NOT_AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 10,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 14194.12
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 107875.31,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "224500",
+        "roomName": "Aile Odası 2 Banyolu",
+        "description": "&lt;p&gt;Aile Odası iki Banyolu Odalar&amp;nbsp;55 m&amp;sup2; b&amp;uuml;y&amp;uuml;kl&amp;uuml;ğ&amp;uuml;ndedir. Odalarda &amp;ccedil;ift kişilik tek yatak ve tek kişilik ayrı yatak bulunuyor. 2 ayrı oda girişi ve 2 ayrı yatak odalı olup, iki adet standart&amp;nbsp;odanın birleşmesinden meydana geliyor.&amp;nbsp;&lt;/p&gt;\r\n",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": 1,
+        "maxAdultCapacity": 2,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355478.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355477.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366268.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366271.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-366269.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Duş",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "2 Ayrı Banyo",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kasa*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "2 Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Müzik Yayını",
+            "paid": false,
+            "description": "TV den"
+          },
+          {
+            "label": "2 Yatak Odası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Ara Kapılı Aile Odası",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Temizlik Hizmeti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kara Manzaralı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "LCD TV",
+            "paid": false,
+            "description": "2 Adet"
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": "Ücretsiz"
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Su Isıtıcısı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Çay / Kahve Seti",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": null,
+        "subBoards": [
+          {
+            "id": null,
+            "priceCode": null,
+            "boardType": {
+              "code": "UAI",
+              "label": "Ultra Her Şey Dahil",
+              "icon": "fa-regular fa-champagneGlasses"
+            },
+            "cancellationDetails": [
+              {
+                "from": "2025-07-30T14:53:17.687636",
+                "to": "2025-09-01T14:00:00",
+                "amount": 0,
+                "currency": "TRY"
+              }
+            ],
+            "cancellation": "FREE_CANCELLATION",
+            "price": {
+              "currency": "TL",
+              "amount": 306464,
+              "discountedPrice": 223718.72,
+              "discountRate": 27
+            },
+            "availability": {
+              "type": "NOT_AVAILABLE",
+              "nightCount": null,
+              "availableDate": null
+            },
+            "lastAllotmentCount": 3,
+            "memberDealPrice": null,
+            "cyprusSaveAmount": null,
+            "dailyPrices": [
+              {
+                "date": "01/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              },
+              {
+                "date": "02/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              },
+              {
+                "date": "03/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              },
+              {
+                "date": "04/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              },
+              {
+                "date": "05/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              },
+              {
+                "date": "06/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              },
+              {
+                "date": "07/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              },
+              {
+                "date": "08/09/2025",
+                "currency": "TRY",
+                "amount": 27964.84
+              }
+            ],
+            "packageSaleGain": null,
+            "payAtHotelOnly": false,
+            "badges": [],
+            "maximumInstallmentText": null,
+            "campaignHighlightedPrice": {
+              "label": "Maximum'a özel sepette %5 ek indirim",
+              "price": {
+                "currency": "TL",
+                "amount": 212532.78,
+                "discountedPrice": null,
+                "discountRate": 0
+              }
+            }
+          }
+        ],
+        "acceptChild": true,
+        "secretRoom": false
+      },
+      {
+        "roomId": "286617",
+        "roomName": "Fırsat Oda",
+        "description": "&lt;p&gt;Fırsat&lt;strong&gt; &lt;/strong&gt;odalar 26 m&sup2; b&uuml;y&uuml;kl&uuml;ğ&uuml;ndedir. Odalarda &ccedil;ift kişilik tek yatak veya tek kişilik iki ayrı yatak bulunuyor.&lt;/p&gt;",
+        "roomSize": null,
+        "roomCapacity": null,
+        "maxChildCapacity": null,
+        "maxAdultCapacity": null,
+        "bedTypes": [],
+        "images": [
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355478.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355477.jpg",
+          "https://images.etstur.com/files/images/hotelImages/TR/50660/m/Alba-Resort-Hotel-Oda-355480.jpg"
+        ],
+        "facilities": [
+          {
+            "label": "Duş",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Saç Kurutma Makinesi",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Banyo",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Duman Dedektörü",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kasa*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Müzik Yayını",
+            "paid": false,
+            "description": "TV den"
+          },
+          {
+            "label": "Temizlik Hizmeti",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Laminant Kaplı Zemin",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Balkon",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Oda Servisi*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "LCD TV",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Merkezi Klima",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Telefon*",
+            "paid": true,
+            "description": null
+          },
+          {
+            "label": "Uydu Yayını",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Kablosuz İnternet",
+            "paid": false,
+            "description": "Ücretsiz"
+          },
+          {
+            "label": "Minibar",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Su Isıtıcısı",
+            "paid": false,
+            "description": null
+          },
+          {
+            "label": "Çay / Kahve Seti",
+            "paid": false,
+            "description": null
+          }
+        ],
+        "badges": [],
+        "nightCount": 8,
+        "nightlyMinPrice": null,
+        "subBoards": [],
+        "acceptChild": true,
+        "secretRoom": false
+      }
+    ],
+    "minPrice": {
+      "currency": "TL",
+      "amount": 103858.56,
+      "discountedPrice": null,
+      "discountRate": 0
+    },
+    "includeTaxes": false,
+    "flightPackage": false,
+    "noDates": false,
+    "promotions": [
+      {
+        "id": 1,
+        "badgeType": "SPONSOR_BANK",
+        "type": "BONUS_MAX_DISCOUNT_RATE",
+        "name": "Maximum ile %27'ye Varan Yaz Fırsatı İndirimi",
+        "description": {
+          "tag": "Maximum ile %27'ye Varan Yaz Fırsatı İndirimi",
+          "desc": [
+            "ETS’nin yaz fırsatlarıyla tatilinizi erkenden planlayarak daha az ödeyebilirsiniz. Yaz fırsatı indirimleri, 1 Nisan - 31 Ekim tarihleri arasında seçili yurt içi otellerinde yapılacak konaklamalarda geçerlidir. Maximum Kart sahibi değilseniz, yaz fırsatında Maximum’a özel fırsatlardan yararlanmak için hemen başvurun!"
+          ]
+        },
+        "imageUrl": "/assets/web/payment/maximum.svg",
+        "icon": "fa-regular fa-party-horn"
+      }
+    ],
+    "checkIn": "2025-09-01",
+    "checkOut": "2025-09-09"
+  }
+}

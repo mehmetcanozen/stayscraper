@@ -1,0 +1,2857 @@
+{
+  "hotelName": "Nirvana Mediterranean Excellence",
+  "hotelSlug": "nirvana-mediterranean-excellence",
+  "searchParams": {
+    "checkInDate": "2025-07-31",
+    "checkOutDate": "2025-08-07",
+    "adults": 2,
+    "children": 2,
+    "childAges": [
+      10,
+      4
+    ]
+  },
+  "rooms": [
+    {
+      "roomId": "s+NdlHxeitXp+b2yNcm0nW7ZWxdGAVuK+pRDKD8yi8oZ8sYY7YDflp0ZeXyyHbk9RQF3bcK0KPc0sATqcqxdkmmeNMhr3LZXaBMU4TZy931CaRAZR6DOl+KHLNo4S8Q8",
+      "roomType": "Villa Sedir",
+      "roomName": "Villa Sedir",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "862 m2",
+      "bedType": "Çift Kişilik Yatak, İki tek kişilik yatak",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Bölgeye has doğal kızıl\nçam ormanı içerisindeki\nözel bir alanda yer almaktadırDoğal çam ormanının içinde konumlanan tek katlı özel Villa Cedar’da;\n2 yatak odası, 2 banyo, 1 oturma odası, 1 oturma grubu, 1 Smart, 2 LED TV ve\nBluetooth özellikli ses sistemi bulunmaktadır. Yüksek kaliteli donanımla\ntefriş edilmiş olan bu odaların tamamı teraslı ve ortak özel havuzlu olup,\nher biri bahçe veya lagoon havuz manzarasına sahiptir. Odaların duvar ve\nçatı imalatında özel doğal ağaç türleri kullanılmıştırMinibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak, İki tek kişilik yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "86 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/aa3e40ff-717f-4bce-9c76-1fef580f1145-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/aa3e40ff-717f-4bce-9c76-1fef580f1145-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/116c5f72-0c91-4521-b3bf-eac4079c6a79-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/116c5f72-0c91-4521-b3bf-eac4079c6a79-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/a49d2888-36d2-4f0c-b8ba-a66b2fdc88d1-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/a49d2888-36d2-4f0c-b8ba-a66b2fdc88d1-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/51d956b9-ce2f-45c9-aff1-963c38d1a6d2-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/51d956b9-ce2f-45c9-aff1-963c38d1a6d2-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/0c4591c5-9473-4dab-bdb7-585013f08f4d-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/0c4591c5-9473-4dab-bdb7-585013f08f4d-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/f70c60e6-ea2c-461a-b1ff-fb44f868f4cb-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/f70c60e6-ea2c-461a-b1ff-fb44f868f4cb-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/cbada87f-b893-4734-909e-fc34ea3c651f-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/cbada87f-b893-4734-909e-fc34ea3c651f-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025",
+        "Villalar",
+        "Villalar"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "3 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "1.869.682,00TL",
+        "currentPrice": "1.047.021,92",
+        "discountPercent": "%44 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "256.780,00TL",
+          "currentPrice": "143.796,80TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "268.817,00TL",
+          "currentPrice": "150.537,52TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "268.817,00TL",
+          "currentPrice": "150.537,52TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "268.817,00TL",
+          "currentPrice": "150.537,52TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "268.817,00TL",
+          "currentPrice": "150.537,52TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "268.817,00TL",
+          "currentPrice": "150.537,52TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "268.817,00TL",
+          "currentPrice": "150.537,52TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "s+NdlHxeitXp+b2yNcm0nW7ZWxdGAVuK+pRDKD8yi8qMIGgXju+LE5WCUbCPxTq1rAMe5asH8tcjYEazHLF40xApc1s3Eqv0ZZZlImdAeTK77XotrFlEzTdzkjDviwld",
+      "roomType": "Suite Royal - Ortak Havuz & Bahçe Kullanımlı",
+      "roomName": "Suite Royal - Ortak Havuz & Bahçe Kullanımlı",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "1292 m2",
+      "bedType": "Çift Kişilik Yatak, İki çift kişilik yatak",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Sahil kenarında özel bir\npeyzaj içerisinde\nmükemmel lokasyon.Doğal kızıl çam ormanının içerisinde ve sahilde bulunan Suite Royal’de; 2 yatak odası, 1\ngiyinme odası, 1 oturma odası, 1 yemek salonu, mutfak kösesi, 2 banyo, 3 adet LED SMART\nTV, bluetooth özellikli ses sitemi ve çok geniş 2 teras bulunmaktadır. Bu 2 suite özel ortak\nhavuz mevcuttur. P-Assistant hizmeti her Suite özel verilmektedir. Lüks donanımlı suitler deniz\nve havuz manzaralıdır.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak, İki çift kişilik yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "129 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/132c9afa-32f7-4d34-b655-35fad13d8cf4-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/132c9afa-32f7-4d34-b655-35fad13d8cf4-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/61cb9263-e46e-40a7-a11d-02b78e93cad6-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/61cb9263-e46e-40a7-a11d-02b78e93cad6-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/c0dd584a-93a8-418d-a032-e5765eb70e96-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/c0dd584a-93a8-418d-a032-e5765eb70e96-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/bf0a22f0-903d-4342-a38e-3e730e8a81ce-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/bf0a22f0-903d-4342-a38e-3e730e8a81ce-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/7f72e50a-2d72-4cfa-9545-46d5d52b6f84-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/7f72e50a-2d72-4cfa-9545-46d5d52b6f84-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/afb27e55-a68e-4e04-b418-0f6e7a045a8c-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/afb27e55-a68e-4e04-b418-0f6e7a045a8c-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/025e000a-146d-4486-b004-78b02e7a5163-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/025e000a-146d-4486-b004-78b02e7a5163-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/6e7d55c7-5535-489c-8cc6-47101ce553f7-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/6e7d55c7-5535-489c-8cc6-47101ce553f7-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025",
+        "Villalar",
+        "Villalar"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "4 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "1.602.584,50TL",
+        "currentPrice": "1.282.067,60",
+        "discountPercent": "%20 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "220.097,50TL",
+          "currentPrice": "176.078,00TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "230.414,50TL",
+          "currentPrice": "184.331,60TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "230.414,50TL",
+          "currentPrice": "184.331,60TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "230.414,50TL",
+          "currentPrice": "184.331,60TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "230.414,50TL",
+          "currentPrice": "184.331,60TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "230.414,50TL",
+          "currentPrice": "184.331,60TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "230.414,50TL",
+          "currentPrice": "184.331,60TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "s+NdlHxeitXp+b2yNcm0nTas3hGe5dhyd+au0cXCIsspT4A8MyQ7y3KkyGWWjmk0onHSNWloqG8qGj+qUv/gc/wQ+MLwzFOwSS0kO4uHYST5lvLCQ5nadMQr41PDfR4Z",
+      "roomType": "Villa Royal - Özel Havuzlu",
+      "roomName": "Villa Royal - Özel Havuzlu",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "",
+      "bedType": "",
+      "view": "",
+      "smokingPolicy": "",
+      "description": "Doğal kızıl çam ormanının içinde ve sahil kenarında konumlanan Villa Royal’de;\nalt katta 1 oturma odası, 1 çift kişilik yatak odası, 1 yemek salonu, mutfak köşesi,\ntek kişilik yatak odası, 1 teras ve 1 banyo bulunmaktadır. Üst katta ise;\nbalkonlu 2 yatak odası ve 2 banyo mevcuttur. Villada 1 Smart, 3 LED TV ve\nBluetooth özellikli ses sistemi bulunmaktadır. Lüks donanımlı villaların\n4 tanesi deniz manzaralı, 2 tanesi ise kısmi deniz manzaralıdır.\nKısmi deniz manzaralı iki villada münferit havuz bulunmaktadır.",
+      "amenities": [
+        {
+          "name": "Faks",
+          "isPaid": true
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        }
+      ],
+      "badges": [],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/f1b9de19-6989-42c6-b0c2-5ef668a20aba-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/f1b9de19-6989-42c6-b0c2-5ef668a20aba-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/d4235865-8c94-471a-a770-7775cb340e4d-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/d4235865-8c94-471a-a770-7775cb340e4d-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/8725a800-1c85-44c5-80a2-e643d73ad5cf-150.jpeg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/8725a800-1c85-44c5-80a2-e643d73ad5cf-150.jpeg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/7c700312-63eb-424a-b92d-e812ebf0136f-150.jpeg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/7c700312-63eb-424a-b92d-e812ebf0136f-150.jpeg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/8d7e4185-7df4-4900-be1d-435f5a92d7d8-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/8d7e4185-7df4-4900-be1d-435f5a92d7d8-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/fbd272ce-7277-47ae-b51a-17641eb858a0-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/fbd272ce-7277-47ae-b51a-17641eb858a0-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/8cd7bad3-9f08-4be1-9fcb-cef95a43328b-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/8cd7bad3-9f08-4be1-9fcb-cef95a43328b-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/c4692f81-246c-498b-8408-f85853ae3893-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/c4692f81-246c-498b-8408-f85853ae3893-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/b8a7a992-e609-4999-992c-47388c186d22-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/b8a7a992-e609-4999-992c-47388c186d22-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/d9df7041-646d-4a48-9015-78ae723c26dc-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/d9df7041-646d-4a48-9015-78ae723c26dc-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/27c407c3-4329-4dff-b2fc-049d841e6a1a-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/27c407c3-4329-4dff-b2fc-049d841e6a1a-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/7b79fbf6-8719-4a7c-ba88-ee8c499bb186-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/7b79fbf6-8719-4a7c-ba88-ee8c499bb186-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025",
+        "Villalar",
+        "Villalar"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "3 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "2.403.874,99TL",
+        "currentPrice": "1.346.169,99",
+        "discountPercent": "%44 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "330.146,00TL",
+          "currentPrice": "184.881,76TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "345.621,50TL",
+          "currentPrice": "193.548,04TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "345.621,50TL",
+          "currentPrice": "193.548,04TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "345.621,50TL",
+          "currentPrice": "193.548,04TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "345.621,50TL",
+          "currentPrice": "193.548,04TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "345.621,50TL",
+          "currentPrice": "193.548,04TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "345.621,50TL",
+          "currentPrice": "193.548,04TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "Ngn+8WgBsHCYt/uVH+SGbmV/qiUCaacNymm8j7BRYTQE0q0Zji/+LqVoi+cKpj9H2HVfg1AkbXVFJ099dg5gvVh2Ow/bPzSQCIjpnYbHYks=",
+      "roomType": "Standart Oda",
+      "roomName": "Standart Oda",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "332 m2",
+      "bedType": "Çift Kişilik Yatak, Tek Kişilik Yatak",
+      "view": "Bahçe Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Ana binave doğal çam ormanının içinde konumlanan Standard odalarda;\n1 yatak odası, 1 banyo ve 1 adet LED TV bulunmaktadır. Balkonlu ve\nbahçe manzaralı olan odalar, 5 Yıldız Deluxe normlarına uygun\ntüm donanım ve ekipmanlarla donatılmıştır. Ana binada, A blok ve\ndoğal çam ormanı ile\nçevrili bölgede yer alırMinibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Bahçe Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak, Tek Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "33 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/4e7b5c02-9961-439b-8499-b5c6b5900b41-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/4e7b5c02-9961-439b-8499-b5c6b5900b41-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/020e6243-79de-431b-a0f7-0a94c52cf0aa-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/020e6243-79de-431b-a0f7-0a94c52cf0aa-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "333.868,00TL",
+        "currentPrice": "217.014,20",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "45.853,00TL",
+          "currentPrice": "29.804,45TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "48.002,50TL",
+          "currentPrice": "31.201,62TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "48.002,50TL",
+          "currentPrice": "31.201,62TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "48.002,50TL",
+          "currentPrice": "31.201,62TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "48.002,50TL",
+          "currentPrice": "31.201,62TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "48.002,50TL",
+          "currentPrice": "31.201,62TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "48.002,50TL",
+          "currentPrice": "31.201,62TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "Ngn+8WgBsHCYt/uVH+SGbmV/qiUCaacNymm8j7BRYTQIDlB4T6QND6IcOKawlOqeQaSLs4elCAtVluNQJsNLt0Hr72lEYPjsdq544ZPpv9A=",
+      "roomType": "Superior Oda",
+      "roomName": "Superior Oda",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "332 m2",
+      "bedType": "Çift Kişilik Yatak",
+      "view": "Bahçe Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Ana binada bulunan Superior odalarda; 1yatak odası, banyo ve\n1 adet LED TV bulunmaktadır. Balkonlu ve deniz, bahçe veya\nhavuz manzaralı olan odalar, 5 Yıldız Deluxe normlarına uygun\ntüm donanım ve ekipmanlarla donatılmıştır. Ana binada, B Blok'ta\nkonumlanır. Denize ve\ngenel alanlara yakın bir\nlokasyonda yer alır.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Bahçe Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "33 m2"
+        }
+      ],
+      "images": [],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "348.911,50TL",
+        "currentPrice": "226.792,48",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "48.002,50TL",
+          "currentPrice": "31.201,62TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "50.151,50TL",
+          "currentPrice": "32.598,47TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "50.151,50TL",
+          "currentPrice": "32.598,47TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "50.151,50TL",
+          "currentPrice": "32.598,47TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "50.151,50TL",
+          "currentPrice": "32.598,47TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "50.151,50TL",
+          "currentPrice": "32.598,47TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "50.151,50TL",
+          "currentPrice": "32.598,47TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJgz/kugzyPDNRCr/LW86Ca4Qbwy/cNrf94gLQv1suED7HT6sTdeCpLUrfyRUgmfSLx6AqAGAj528DHVxBXiJtC4a9RJJY11KClzbU1CmhzxT",
+      "roomType": "Sedir Evleri Forest View",
+      "roomName": "Sedir Evleri Forest View",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "422 m2",
+      "bedType": "Çift Kişilik Yatak",
+      "view": "Bahçe Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Bölgeye has doğal kızıl\nçam ormanı içerisindeki\nözel bir alanda yer almaktadır.\nOrman ve Lagoon Manzaralı.Doğal çam ormanının içerisinde bulunan tek katlı Cedar Houses “Sedir Evleri”nde; 1 yatak odası, 1\nbanyo, 2 kanepe veya 1 kanepe 1 koltuk ve 1 adet LED TV bulunmaktadır. Yüksek kaliteli donanımla\ntefriş edilmis bu odaların tamamı teraslı olup, her biri bahçe veya lagoon havuz manzarasına\nsahiptir. Odaların duvar, çatı vb. imalatında özel çam ağacı türleri kullanılmıştır.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Bahçe Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "42 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/aadeb0c8-43db-45c1-b395-ab05d8100b8f-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/aadeb0c8-43db-45c1-b395-ab05d8100b8f-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/6c58de43-12f7-403b-a7d2-fb8a57c95ae0-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/6c58de43-12f7-403b-a7d2-fb8a57c95ae0-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/02249069-0b15-4cd1-a680-4892f51c3ca0-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/02249069-0b15-4cd1-a680-4892f51c3ca0-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/e8cd23dd-0b93-444e-8fb4-5ad2d680ee5e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/e8cd23dd-0b93-444e-8fb4-5ad2d680ee5e-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/b915b5ab-cf5f-4402-97a4-03c22304d47a-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/b915b5ab-cf5f-4402-97a4-03c22304d47a-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/565f227e-de3a-4112-a396-104a07ba4cd8-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/565f227e-de3a-4112-a396-104a07ba4cd8-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "399.066,50TL",
+        "currentPrice": "259.393,23",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "55.167,50TL",
+          "currentPrice": "35.858,87TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "57.316,50TL",
+          "currentPrice": "37.255,72TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "57.316,50TL",
+          "currentPrice": "37.255,72TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "57.316,50TL",
+          "currentPrice": "37.255,72TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "57.316,50TL",
+          "currentPrice": "37.255,72TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "57.316,50TL",
+          "currentPrice": "37.255,72TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "57.316,50TL",
+          "currentPrice": "37.255,72TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJhVub8iYxFEH2K5jmqNKqX3RoVinIzUWg3wma6j++v7st54QiIZXRb13H1nTsKBVyZyljGU2zA+63nNUGb2vYhwmjmuCR7F5zEem4YCEUSv1",
+      "roomType": "Family Suite",
+      "roomName": "Family Suite",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "512 m2",
+      "bedType": "Çift Kişilik Yatak",
+      "view": "Bahçe Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Ana bina ve doğal çam ormanının içerisinde bulunan Aile Suit odalarda;\n1 yatak odası, 1 sofalı oturma odası, banyo ve 2 adet LED TV bulunmaktadır.\nBalkonlu ve bahçe manzaralı olan odalar, 5 Yıldız Deluxe normlarına\nuygun şekilde tüm donanım ve ekipmanlarla donatılmıştır.",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Faks",
+          "isPaid": true
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Bahçe Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "51 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/50674462-2f4b-42c3-aaf7-bce3274f0102-150.jpeg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/50674462-2f4b-42c3-aaf7-bce3274f0102-150.jpeg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/40667127-0ba1-43e3-8ba7-1d21abab79a2-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/40667127-0ba1-43e3-8ba7-1d21abab79a2-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/da995a19-1051-4d2c-a1e3-30fcd2d8c1bb-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/da995a19-1051-4d2c-a1e3-30fcd2d8c1bb-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/022e1dda-3dfe-4fb6-a039-9c130b019db8-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/022e1dda-3dfe-4fb6-a039-9c130b019db8-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "2 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "400.645,00TL",
+        "currentPrice": "260.419,25",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "55.024,00TL",
+          "currentPrice": "35.765,60TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "57.603,50TL",
+          "currentPrice": "37.442,27TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "57.603,50TL",
+          "currentPrice": "37.442,27TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "57.603,50TL",
+          "currentPrice": "37.442,27TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "57.603,50TL",
+          "currentPrice": "37.442,27TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "57.603,50TL",
+          "currentPrice": "37.442,27TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "57.603,50TL",
+          "currentPrice": "37.442,27TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJgz/kugzyPDNRCr/LW86Ca6iaLXPogBZRM+KC5hhAYjX7zwSuwOX9b+VUT5AOpZcfwrqsP4fpx3XcTvVsMj5y+FCfQ9W0cEoPkxHsHEaVjHd",
+      "roomType": "Sedir Evleri Lagoon View",
+      "roomName": "Sedir Evleri Lagoon View",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "422 m2",
+      "bedType": "",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Doğal çam ormanının içerisinde bulunan tek katlı Cedar Houses “Sedir Evleri”nde; 1 yatak odası, 1\nbanyo, 2 kanepe veya 1 kanepe 1 koltuk ve 1 adet LED TV bulunmaktadır. Yüksek kaliteli donanımla\ntefriş edilmis bu odaların tamamı teraslı olup, her biri bahçe veya lagoon havuz manzarasına\nsahiptir. Odaların duvar, çatı vb. imalatında özel çam ağacı türleri kullanılmıştır.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "42 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/02249069-0b15-4cd1-a680-4892f51c3ca0-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/02249069-0b15-4cd1-a680-4892f51c3ca0-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/e8cd23dd-0b93-444e-8fb4-5ad2d680ee5e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/e8cd23dd-0b93-444e-8fb4-5ad2d680ee5e-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/b915b5ab-cf5f-4402-97a4-03c22304d47a-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/b915b5ab-cf5f-4402-97a4-03c22304d47a-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/565f227e-de3a-4112-a396-104a07ba4cd8-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/565f227e-de3a-4112-a396-104a07ba4cd8-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/24043bf0-929c-4539-96cb-020023c5e4df-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/24043bf0-929c-4539-96cb-020023c5e4df-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "444.205,50TL",
+        "currentPrice": "288.733,58",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "61.615,50TL",
+          "currentPrice": "40.050,07TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "63.765,00TL",
+          "currentPrice": "41.447,25TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "63.765,00TL",
+          "currentPrice": "41.447,25TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "63.765,00TL",
+          "currentPrice": "41.447,25TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "63.765,00TL",
+          "currentPrice": "41.447,25TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "63.765,00TL",
+          "currentPrice": "41.447,25TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "63.765,00TL",
+          "currentPrice": "41.447,25TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "Ngn+8WgBsHCYt/uVH+SGbmV/qiUCaacNymm8j7BRYTRMjCsaiKTMgOQc76rfm9cC5ztCsPn14LIxfuaZpqz2vLWVrJdcrW8FQAzj8OdlYcI=",
+      "roomType": "Lagoon Family Suites Tek Banyolu",
+      "roomName": "Lagoon Family Suites Tek Banyolu",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "562 m2",
+      "bedType": "Çift Kişilik Yatak, Sofa Yatak",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Doğal kızıl çam ormanları\nile çevrili özel bir peyzaj\nalanında yer alır.Lagoon Family Suites tipi odalarda; 1 yatak odası, 1 sofalı oturma odası,\n1 banyoludur. (40 oda) 2 adet LED TV bulunmaktadır. Yüksek kaliteli donanımla tefriş edilmiş bu odaların\ntamamı teraslı olup, her biri bahçe veya lagoon havuz manzarasına sahiptir.\nLagoon manzaralı odalar, havuz çevresine özel bir konumda yer almaktadır.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak, Sofa Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "56 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/fc3b290b-94e6-4fd9-ae1f-e5952322c533-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/fc3b290b-94e6-4fd9-ae1f-e5952322c533-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/f119bbb3-780e-48e6-a500-710044a200d0-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/f119bbb3-780e-48e6-a500-710044a200d0-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/87a50be5-ddd2-4922-a82c-13dabd6ffff1-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/87a50be5-ddd2-4922-a82c-13dabd6ffff1-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/14a7fe91-06a5-40ac-82c1-03bba2d9636e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/14a7fe91-06a5-40ac-82c1-03bba2d9636e-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/f2a332b7-c261-4904-9528-2d10dd685d80-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/f2a332b7-c261-4904-9528-2d10dd685d80-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/5d24ef92-62c7-4d47-bb03-da6074aa47c6-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/5d24ef92-62c7-4d47-bb03-da6074aa47c6-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/037520c8-2e40-4e47-8981-5bd9b1f05094-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/037520c8-2e40-4e47-8981-5bd9b1f05094-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "2 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "467.419,00TL",
+        "currentPrice": "303.822,35",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "64.195,00TL",
+          "currentPrice": "41.726,75TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "67.204,00TL",
+          "currentPrice": "43.682,60TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "67.204,00TL",
+          "currentPrice": "43.682,60TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "67.204,00TL",
+          "currentPrice": "43.682,60TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "67.204,00TL",
+          "currentPrice": "43.682,60TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "67.204,00TL",
+          "currentPrice": "43.682,60TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "67.204,00TL",
+          "currentPrice": "43.682,60TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJqSEpySGNFfOhznLdpRHWzf84Gf2d5M3Fa/aCKPLktZqeOmdguHRMlzdZ4eJFVloHJZqUHzZmHv5hq0evTsDjIogYdU3C1fHu2OHFFFwy8NE",
+      "roomType": "Lagoon Family Suite Tek Banyo Ortak Kullanım Havuz",
+      "roomName": "Lagoon Family Suite Tek Banyo Ortak Kullanım Havuz",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "",
+      "bedType": "",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "",
+      "description": "",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Faks",
+          "isPaid": true
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/4d1ef1e7-69af-41af-84f0-ec0ff8837622-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/4d1ef1e7-69af-41af-84f0-ec0ff8837622-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/8dbcf7b8-fd2b-45bc-9f43-8fef637d6c1f-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/8dbcf7b8-fd2b-45bc-9f43-8fef637d6c1f-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/02c2a36c-68d9-4d5f-ad3e-d3a10188c4f3-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/02c2a36c-68d9-4d5f-ad3e-d3a10188c4f3-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/ccc5aa09-bed3-404f-97e7-85dae6059585-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/ccc5aa09-bed3-404f-97e7-85dae6059585-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/61a9b6c2-6d74-4a1e-9196-838890ac2e96-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/61a9b6c2-6d74-4a1e-9196-838890ac2e96-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/25dd2992-df24-45da-b81a-d3d383cdb95e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/25dd2992-df24-45da-b81a-d3d383cdb95e-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "2 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "494.130,00TL",
+        "currentPrice": "321.184,50",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "67.863,00TL",
+          "currentPrice": "44.110,95TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "71.044,50TL",
+          "currentPrice": "46.178,92TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "71.044,50TL",
+          "currentPrice": "46.178,92TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "71.044,50TL",
+          "currentPrice": "46.178,92TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "71.044,50TL",
+          "currentPrice": "46.178,92TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "71.044,50TL",
+          "currentPrice": "46.178,92TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "71.044,50TL",
+          "currentPrice": "46.178,92TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJttnODjEr/XvpCVPODiCIq+GcBCM+nsopjrfL8aHom9N5CT+5UOdg94PiReG7vgozbNpxUF//+1SUp7+j0e2b5BLyZerCnTbhYpjaHy+keZ9",
+      "roomType": "Lagoon Family Suites Çift Banyolu",
+      "roomName": "Lagoon Family Suites Çift Banyolu",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "",
+      "bedType": "",
+      "view": "",
+      "smokingPolicy": "",
+      "description": "Lagoon Family Suites tipi odalarda; 2 odalı ve 2 banyolu (toplam 18 oda ),\n2 adet LED TV bulunmaktadır. Yüksek kaliteli donanımla tefriş edilmiş bu odaların\ntamamı teraslı olup, her biri bahçe veya lagoon havuz manzarasına sahiptir.\nLagoon manzaralı odalar, havuz çevresine özel bir konumda yer almaktadır.",
+      "amenities": [
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Faks",
+          "isPaid": true
+        }
+      ],
+      "badges": [],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/8cdd0461-77d0-439f-8f75-8562cedcd2bb-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/8cdd0461-77d0-439f-8f75-8562cedcd2bb-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/ad94a3e6-790a-48f8-a387-b240f7f84159-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/ad94a3e6-790a-48f8-a387-b240f7f84159-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/e1daf158-1a2a-400b-ac58-aa09347ece2e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/e1daf158-1a2a-400b-ac58-aa09347ece2e-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/07a8bbab-7295-4d50-9dbe-355916b09809-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/07a8bbab-7295-4d50-9dbe-355916b09809-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/bac5f40d-2840-4e69-87d0-ace4dc48c655-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/bac5f40d-2840-4e69-87d0-ace4dc48c655-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/af58f053-0880-4bb1-9993-908ff6534605-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/af58f053-0880-4bb1-9993-908ff6534605-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/a628d8c5-badd-42b1-bc75-f48423d3a5df-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/a628d8c5-badd-42b1-bc75-f48423d3a5df-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/73cde082-2917-4f9f-9305-45b8366bb058-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/73cde082-2917-4f9f-9305-45b8366bb058-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/29eaae03-a468-4deb-a723-c017538d9119-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/29eaae03-a468-4deb-a723-c017538d9119-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "534.192,50TL",
+        "currentPrice": "347.225,13",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "73.365,50TL",
+          "currentPrice": "47.687,57TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "76.804,50TL",
+          "currentPrice": "49.922,92TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "76.804,50TL",
+          "currentPrice": "49.922,92TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "76.804,50TL",
+          "currentPrice": "49.922,92TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "76.804,50TL",
+          "currentPrice": "49.922,92TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "76.804,50TL",
+          "currentPrice": "49.922,92TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "76.804,50TL",
+          "currentPrice": "49.922,92TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJqSEpySGNFfOhznLdpRHWzfheZpABlcd5NlGWq9xYQ7HB8MOkwCPeV9eYp8DEOWeduZXxuRXsmNYycyMpzWf3BqqCEg4Pw/z6elP/Hbppo5p",
+      "roomType": "Lagoon Family Suite ÇiftBanyo Ortak Kullanım Havuz",
+      "roomName": "Lagoon Family Suite ÇiftBanyo Ortak Kullanım Havuz",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "",
+      "bedType": "",
+      "view": "",
+      "smokingPolicy": "",
+      "description": "",
+      "amenities": [],
+      "badges": [],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/07a8bbab-7295-4d50-9dbe-355916b09809-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/07a8bbab-7295-4d50-9dbe-355916b09809-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/bac5f40d-2840-4e69-87d0-ace4dc48c655-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/bac5f40d-2840-4e69-87d0-ace4dc48c655-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/af58f053-0880-4bb1-9993-908ff6534605-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/af58f053-0880-4bb1-9993-908ff6534605-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/a628d8c5-badd-42b1-bc75-f48423d3a5df-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/a628d8c5-badd-42b1-bc75-f48423d3a5df-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/73cde082-2917-4f9f-9305-45b8366bb058-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/73cde082-2917-4f9f-9305-45b8366bb058-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/158be6de-fe0d-43d4-9bd0-bf7fb5b05887-150.jpeg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/158be6de-fe0d-43d4-9bd0-bf7fb5b05887-150.jpeg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/3f59265d-f5f9-47dc-b4c5-ec438f726405-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/3f59265d-f5f9-47dc-b4c5-ec438f726405-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "560.903,99TL",
+        "currentPrice": "364.587,60",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "77.034,00TL",
+          "currentPrice": "50.072,10TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "80.645,00TL",
+          "currentPrice": "52.419,25TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "80.645,00TL",
+          "currentPrice": "52.419,25TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "80.645,00TL",
+          "currentPrice": "52.419,25TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "80.645,00TL",
+          "currentPrice": "52.419,25TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "80.645,00TL",
+          "currentPrice": "52.419,25TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "80.645,00TL",
+          "currentPrice": "52.419,25TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJi50CI9QKCM7Gp00Yg0OaYPau7oFpMkAr+y+QvOOEhcVwrm8pqdRGmS+j7xNdEoUJCBprc4PYi4WMmTZLYi+z5o3zScv4hB+s6VLVo0joDGr",
+      "roomType": "Lagoon Family Deluxe Suites",
+      "roomName": "Lagoon Family Deluxe Suites",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "902 m2",
+      "bedType": "Çift Kişilik Yatak",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Doğal kızıl çam ormanları\nile çevrili özel bir peyzaj\nalanında yer alır.Çam ormanlarının içinde yer alan Lagoon Family Deluxe tipi odalarda;\nteraslı 2 yatak odası, 1 oturma odası, 2 banyo ve 3 adet LED TV bulunmaktadır.\nBu suitler bahçe ve havuz manzarasına sahiptir.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez).Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında).Günlük L’occitane Buklet yenileme (her gün 1 kez).",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "90 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/e74cee76-05cb-4436-a07e-7b09a35906fe-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/e74cee76-05cb-4436-a07e-7b09a35906fe-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/9d69f314-6d53-42c4-ba4a-23849adcf91d-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/9d69f314-6d53-42c4-ba4a-23849adcf91d-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/55977a08-c48b-4acf-aa8f-c6a3b81e2ee7-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/55977a08-c48b-4acf-aa8f-c6a3b81e2ee7-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/4f9d59d6-3e69-4f9b-a158-1c85a6694133-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/4f9d59d6-3e69-4f9b-a158-1c85a6694133-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/a37d8182-8023-4abe-b5ef-dd4e13f3698e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/a37d8182-8023-4abe-b5ef-dd4e13f3698e-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/046bcc33-288e-49eb-9e82-9a2f60250c2b-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/046bcc33-288e-49eb-9e82-9a2f60250c2b-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "3 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "801.290,50TL",
+        "currentPrice": "520.838,83",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "110.048,50TL",
+          "currentPrice": "71.531,52TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "115.207,00TL",
+          "currentPrice": "74.884,55TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "115.207,00TL",
+          "currentPrice": "74.884,55TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "115.207,00TL",
+          "currentPrice": "74.884,55TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "115.207,00TL",
+          "currentPrice": "74.884,55TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "115.207,00TL",
+          "currentPrice": "74.884,55TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "115.207,00TL",
+          "currentPrice": "74.884,55TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "slXrMLFHNKF0QzsV5gyWJqSEpySGNFfOhznLdpRHWzdZy27u0C1ubCKXBjMpc245hjh+xwH0GRGmxloKM9gCDHCCRtfMHLDiAOedaaeHz/njPet9OJBwputOZjHTXRu5",
+      "roomType": "Lagoon Family Deluxe Suit ÇiftBanyo Ortak K. Havuz",
+      "roomName": "Lagoon Family Deluxe Suit ÇiftBanyo Ortak K. Havuz",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "",
+      "bedType": "",
+      "view": "",
+      "smokingPolicy": "",
+      "description": "",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Faks",
+          "isPaid": true
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        }
+      ],
+      "badges": [],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/9d69f314-6d53-42c4-ba4a-23849adcf91d-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/9d69f314-6d53-42c4-ba4a-23849adcf91d-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/55977a08-c48b-4acf-aa8f-c6a3b81e2ee7-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/55977a08-c48b-4acf-aa8f-c6a3b81e2ee7-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/4f9d59d6-3e69-4f9b-a158-1c85a6694133-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/4f9d59d6-3e69-4f9b-a158-1c85a6694133-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/a37d8182-8023-4abe-b5ef-dd4e13f3698e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/a37d8182-8023-4abe-b5ef-dd4e13f3698e-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/bc8ba6b9-6c92-4cb4-ac53-0b6f8f53453a-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/bc8ba6b9-6c92-4cb4-ac53-0b6f8f53453a-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/3f59265d-f5f9-47dc-b4c5-ec438f726405-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/3f59265d-f5f9-47dc-b4c5-ec438f726405-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "3 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "828.002,00TL",
+        "currentPrice": "538.201,30",
+        "discountPercent": "%35 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "113.717,00TL",
+          "currentPrice": "73.916,05TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "119.047,50TL",
+          "currentPrice": "77.380,87TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "119.047,50TL",
+          "currentPrice": "77.380,87TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "119.047,50TL",
+          "currentPrice": "77.380,87TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "119.047,50TL",
+          "currentPrice": "77.380,87TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "119.047,50TL",
+          "currentPrice": "77.380,87TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "119.047,50TL",
+          "currentPrice": "77.380,87TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "s+NdlHxeitXp+b2yNcm0nW7ZWxdGAVuK+pRDKD8yi8qzFPV1VQQ57Ka+bQhTj9KhPmBi+F0NGHV7veYt9G2d940x+FvqwoO60hDw0b39qvJPIhxwEdKdEEVfgd9X2EKy",
+      "roomType": "Villa Royal",
+      "roomName": "Villa Royal",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "1522 m2",
+      "bedType": "Çift Kişilik Yatak",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Sahil kenarında özel bir\npeyzaj içerisinde\nmükemmel lokasyon.Doğal kızıl çam ormanının içinde ve sahil kenarında konumlanan Villa Royal’de;\nalt katta 1 oturma odası, 1 çift kişilik yatak odası, 1 yemek salonu, mutfak köşesi,\ntek kişilik yatak odası, 1 teras ve 1 banyo bulunmaktadır. Üst katta ise;\nbalkonlu 2 yatak odası ve 2 banyo mevcuttur. Villada 1 Smart, 3 LED TV ve\nBluetooth özellikli ses sistemi bulunmaktadır. Lüks donanımlı villaların\n4 tanesi deniz manzaralı, 2 tanesi ise kısmi deniz manzaralıdır.\nKısmi deniz manzaralı iki villada münferit havuz bulunmaktadır.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "152 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/8d7e4185-7df4-4900-be1d-435f5a92d7d8-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/8d7e4185-7df4-4900-be1d-435f5a92d7d8-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/fbd272ce-7277-47ae-b51a-17641eb858a0-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/fbd272ce-7277-47ae-b51a-17641eb858a0-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/8cd7bad3-9f08-4be1-9fcb-cef95a43328b-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/8cd7bad3-9f08-4be1-9fcb-cef95a43328b-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/c4692f81-246c-498b-8408-f85853ae3893-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/c4692f81-246c-498b-8408-f85853ae3893-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/b8a7a992-e609-4999-992c-47388c186d22-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/b8a7a992-e609-4999-992c-47388c186d22-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/d9df7041-646d-4a48-9015-78ae723c26dc-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/d9df7041-646d-4a48-9015-78ae723c26dc-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/0d2d99c0-cc35-440d-97f5-1d654978c590-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/0d2d99c0-cc35-440d-97f5-1d654978c590-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/281497f7-5321-4330-9979-1cdf2c664e73-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/281497f7-5321-4330-9979-1cdf2c664e73-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025",
+        "Villalar",
+        "Villalar"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "4 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "2.003.229,50TL",
+        "currentPrice": "1.121.808,52",
+        "discountPercent": "%44 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "275.121,50TL",
+          "currentPrice": "154.068,04TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "288.018,00TL",
+          "currentPrice": "161.290,08TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "288.018,00TL",
+          "currentPrice": "161.290,08TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "288.018,00TL",
+          "currentPrice": "161.290,08TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "288.018,00TL",
+          "currentPrice": "161.290,08TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "288.018,00TL",
+          "currentPrice": "161.290,08TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "288.018,00TL",
+          "currentPrice": "161.290,08TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "UkBeYc+MS91ppT9at+IdWlcCt95tFFYlBPBIKJCYoOMpe5yp80rmvvlaN0KHFkbRfwwfK49n/BdE4U8AEaaZZQLl4fHe6IwXkUe8Tt2T7dVwJafG+AR5+IQMp7/Xrrk9",
+      "roomType": "Villa Nirvana",
+      "roomName": "Villa Nirvana",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "4002 m2",
+      "bedType": "Çift Kişilik Yatak",
+      "view": "Deniz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Sahil kenarında özel bir\npeyzaj içerisinde\nmükemmel lokasyon.Doğal kızıl çam ormanının içinde ve sahil kenarında konumlanan iki katlı\nVilla Nirvana'da alt katta 2 yatak odası, giyinme odası, 1 oturma odası,\n1 yemek salonu, mutfak köşesi ve 2 banyo bulunmaktadır. Üst katta ise\n2 yatak odası, 2 giyinme odası ve 2 banyo yer almaktadır. Villada ayrıca 2 teras,\nkendine özel geniş havuz, jakuzi, buhar odası, hamam, sauna, 1 Smart, 4 LED TV ve\nBluetooth özellikli ses sistemi mevcuttur. Villa, deniz ve havuz manzaralıdır ve\ngeniş, özel tasarlanmış bahçesinde konumlanmıştır. Villa Nirvana,\nözel ekibi ile birinci sınıf lüks tatil hizmeti sunmaktadır.Minibar, çay ve Nespresso kapsül kahve yenileme (her gün 09:00–16:00 saatleri arasında 1 kez)Günlük oda temizliği (her gün 09:00 –16:00 saatleri arasında)Günlük L’occitane Buklet yenileme (her gün 1 kez)",
+      "amenities": [
+        {
+          "name": "Bornoz Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Deniz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "400 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/b8fb31f0-eaa1-4b01-9362-c6d40d38c248-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/b8fb31f0-eaa1-4b01-9362-c6d40d38c248-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/1cf355e6-c6cf-4a5a-b891-8f38c04fbe3f-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/1cf355e6-c6cf-4a5a-b891-8f38c04fbe3f-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/022a19f7-58f2-4d32-a16e-a29c791ee991-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/022a19f7-58f2-4d32-a16e-a29c791ee991-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/c2107c12-a8d3-4d0d-8b7a-68b022734f09-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/c2107c12-a8d3-4d0d-8b7a-68b022734f09-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025",
+        "Villalar",
+        "Villalar"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "4 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "3.205.168,99TL",
+        "currentPrice": "1.794.894,64",
+        "discountPercent": "%44 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "440.195,00TL",
+          "currentPrice": "246.509,20TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "460.829,00TL",
+          "currentPrice": "258.064,24TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "460.829,00TL",
+          "currentPrice": "258.064,24TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "460.829,00TL",
+          "currentPrice": "258.064,24TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "460.829,00TL",
+          "currentPrice": "258.064,24TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "460.829,00TL",
+          "currentPrice": "258.064,24TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "460.829,00TL",
+          "currentPrice": "258.064,24TL"
+        }
+      ],
+      "isAvailable": false
+    },
+    {
+      "roomId": "s+NdlHxeitXp+b2yNcm0nTas3hGe5dhyd+au0cXCIssGChc1yKU6CNtTCPxXwRKqkfgKmpagPIzeOVsl5nvbQ426SevUpGAGb6hExjh/P0OrK/loHXlQtgyOvUJxhe1i",
+      "roomType": "Suite Royal - Özel Havuz & Bahçe Kullanımlı",
+      "roomName": "Suite Royal - Özel Havuz & Bahçe Kullanımlı",
+      "concept": "Sağlıklı & Lokal Her Şey Dahil",
+      "minStay": "Minimum 4 Gece Konaklama",
+      "roomSize": "1292 m2",
+      "bedType": "",
+      "view": "",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Doğal kızıl çam ormanı içinde ve sahilde konumlanan Suite Royal ünitesi,\n2 suite'ten oluşmaktadır. Her bir suite, 2 yatak odası, 1 giyinme odası,\n1 oturma odası, 1 yemek salonu, mutfak köşesi, 2 banyo, 1 Smart, 2 LED TV,\nBluetooth özellikli ses sistemi ve çok geniş 2 teras içermektedir. Bu 2 suite,\nözel bir ortak havuza sahiptir. Ayrıca, Suite Royal ünitesi tek başına özel olarak\nrezerve edilebilmektedir. Tek başına rezervasyon detayları için lütfen\nsatış ofisi ile iletişime geçiniz",
+      "amenities": [
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Faks",
+          "isPaid": true
+        },
+        {
+          "name": "Saç kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Duş/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd Tv ve Müzik Yayını",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Uydu Tv",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "129 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/room/d02bac9e-7aff-4b2e-a410-4531df12b8a5-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/room/d02bac9e-7aff-4b2e-a410-4531df12b8a5-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/d0472e0a-57d5-49ae-8a77-bf79621a2eac-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/d0472e0a-57d5-49ae-8a77-bf79621a2eac-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/b884867c-19f5-429a-812e-2e5f76be466a-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/b884867c-19f5-429a-812e-2e5f76be466a-1024.jpg"
+        }
+      ],
+      "campaignTags": [
+        "Gökhan Tepe Konserleri Dahil",
+        "Gökhan Tepe Konserleri",
+        "Tarihler",
+        "31.07.2025",
+        "Oğuzhan Koç Konseri Dahil",
+        "Oğuzhan Koç Konseri",
+        "Tarihler",
+        "01.08.2025",
+        "Villalar",
+        "Villalar"
+      ],
+      "cancellationPolicy": "İptal Politikası",
+      "childPolicy": "4 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "3.878.253,99TL",
+        "currentPrice": "3.102.603,20",
+        "discountPercent": "%20 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "31.07.2025",
+          "dayOfWeek": "Perşembe",
+          "oldPrice": "532.635,99TL",
+          "currentPrice": "426.108,79TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "01.08.2025",
+          "dayOfWeek": "Cuma",
+          "oldPrice": "557.603,00TL",
+          "currentPrice": "446.082,40TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "02.08.2025",
+          "dayOfWeek": "Cumartesi",
+          "oldPrice": "557.603,00TL",
+          "currentPrice": "446.082,40TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "03.08.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "557.603,00TL",
+          "currentPrice": "446.082,40TL"
+        },
+        {
+          "day": "5.GÜN",
+          "date": "04.08.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "557.603,00TL",
+          "currentPrice": "446.082,40TL"
+        },
+        {
+          "day": "6.GÜN",
+          "date": "05.08.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "557.603,00TL",
+          "currentPrice": "446.082,40TL"
+        },
+        {
+          "day": "7.GÜN",
+          "date": "06.08.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "557.603,00TL",
+          "currentPrice": "446.082,40TL"
+        }
+      ],
+      "isAvailable": false
+    }
+  ],
+  "scrapedAt": "2025-07-30T18:25:49.917Z",
+  "totalRooms": 17,
+  "scraper": "JollyTurScraper"
+}

@@ -1,0 +1,10 @@
+node_modules/
+dist/
+.env
+.cursorignore
+*.log
+logs/
+.DS_Store
+Thumbs.db
+investigation/
+PROGRESS.md

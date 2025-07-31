@@ -1,0 +1,1045 @@
+{
+  "success": true,
+  "hotelName": "Adalya Ocean Deluxe",
+  "rooms": [
+    {
+      "name": "Kara Tarafı Oda",
+      "size": "31 m2",
+      "features": [
+        "Oda Genişliği 31 m2",
+        "Balkon",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "461.530,00 TL",
+      "discountedPrice": "281.302,54 TL",
+      "discount": "%39 indirim",
+      "capacity": "En fazla 3 yetişkin + 1 bebek (0-2 yaş) veya 2 yetişkin + 1 çocuk + 1 bebek (0-2 yaş).",
+      "hasError": false,
+      "available": true,
+      "detailedPricing": {
+        "roomIndex": 0,
+        "modalInfo": {
+          "title": "Kara Tarafı Oda",
+          "alert": "",
+          "modalType": "detailed-pricing"
+        },
+        "prices": [
+          {
+            "period": "17 Haziran - 26 Ağustos",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "27 Ağustos - 17 Eylül",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "18 Eylül - 06 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "10.769,00 TL",
+            "singlePrice": "18.307,50 TL",
+            "extraBed": "7.538,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "07 Ekim - 20 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "9.230,75 TL",
+            "singlePrice": "15.692,00 TL",
+            "extraBed": "6.461,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "21 Ekim - 31 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "7.692,25 TL",
+            "singlePrice": "13.076,50 TL",
+            "extraBed": "5.384,50 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          }
+        ]
+      }
+    },
+    {
+      "name": "Yandan Deniz Manzaralı Oda",
+      "size": "31 m2",
+      "features": [
+        "Oda Genişliği 31 m2",
+        "Balkon",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "467.690,00 TL",
+      "discountedPrice": "285.057,06 TL",
+      "discount": "%39 indirim",
+      "capacity": "En fazla 3 yetişkin + 1 bebek (0-2 yaş) veya 2 yetişkin + 1 çocuk + 1 bebek (0-2 yaş).",
+      "hasError": false,
+      "available": true,
+      "detailedPricing": {
+        "roomIndex": 1,
+        "modalInfo": {
+          "title": "Kara Tarafı Oda",
+          "alert": "",
+          "modalType": "detailed-pricing"
+        },
+        "prices": [
+          {
+            "period": "17 Haziran - 26 Ağustos",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "27 Ağustos - 17 Eylül",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "18 Eylül - 06 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "10.769,00 TL",
+            "singlePrice": "18.307,50 TL",
+            "extraBed": "7.538,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "07 Ekim - 20 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "9.230,75 TL",
+            "singlePrice": "15.692,00 TL",
+            "extraBed": "6.461,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "21 Ekim - 31 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "7.692,25 TL",
+            "singlePrice": "13.076,50 TL",
+            "extraBed": "5.384,50 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          }
+        ]
+      }
+    },
+    {
+      "name": "Direkt Deniz Manzaralı Standart Oda",
+      "size": "31 m2",
+      "features": [
+        "Oda Genişliği 31 m2",
+        "Balkon",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "480.000,00 TL",
+      "discountedPrice": "292.560,00 TL",
+      "discount": "%39 indirim",
+      "capacity": "En fazla 3 yetişkin + 1 bebek (0-2 yaş) veya 2 yetişkin + 1 çocuk + 1 bebek (0-2 yaş).",
+      "hasError": false,
+      "available": true,
+      "detailedPricing": {
+        "roomIndex": 2,
+        "modalInfo": {
+          "title": "Kara Tarafı Oda",
+          "alert": "",
+          "modalType": "detailed-pricing"
+        },
+        "prices": [
+          {
+            "period": "17 Haziran - 26 Ağustos",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "27 Ağustos - 17 Eylül",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "18 Eylül - 06 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "10.769,00 TL",
+            "singlePrice": "18.307,50 TL",
+            "extraBed": "7.538,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "07 Ekim - 20 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "9.230,75 TL",
+            "singlePrice": "15.692,00 TL",
+            "extraBed": "6.461,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "21 Ekim - 31 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "7.692,25 TL",
+            "singlePrice": "13.076,50 TL",
+            "extraBed": "5.384,50 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          }
+        ]
+      }
+    },
+    {
+      "name": "Yandan Deniz Manzaralı Aile Odası",
+      "size": "40 m2",
+      "features": [
+        "Oda Genişliği 40 m2",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "701.530,20 TL",
+      "discountedPrice": "427.582,66 TL",
+      "discount": "%39 indirim",
+      "capacity": "En az 3 yetişkin, En fazla 4 yetişkin veya 3 yetişkin + 2 çocuk.",
+      "hasError": false,
+      "available": true,
+      "detailedPricing": {
+        "roomIndex": 3,
+        "modalInfo": {
+          "title": "Kara Tarafı Oda",
+          "alert": "",
+          "modalType": "detailed-pricing"
+        },
+        "prices": [
+          {
+            "period": "17 Haziran - 26 Ağustos",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "27 Ağustos - 17 Eylül",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "11.538,25 TL",
+            "singlePrice": "19.615,00 TL",
+            "extraBed": "8.077,00 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "18 Eylül - 06 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "10.769,00 TL",
+            "singlePrice": "18.307,50 TL",
+            "extraBed": "7.538,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "07 Ekim - 20 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "9.230,75 TL",
+            "singlePrice": "15.692,00 TL",
+            "extraBed": "6.461,51 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          },
+          {
+            "period": "21 Ekim - 31 Ekim",
+            "type": "Ultra Herşey DahilHergünMin. 3 gece",
+            "doublePrice": "7.692,25 TL",
+            "singlePrice": "13.076,50 TL",
+            "extraBed": "5.384,50 TL",
+            "childrenPricing": [
+              {
+                "childNumber": "1.Ç:",
+                "childAge": "0 - 11,99 yaş:",
+                "childPrice": "Ücretsiz"
+              },
+              {
+                "childNumber": "2.Ç:",
+                "childAge": "0 - 2,99 yaş:",
+                "childPrice": "Ücretsiz"
+              }
+            ],
+            "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+            "hasChildrenTable": true,
+            "totalCells": 12
+          }
+        ]
+      }
+    }
+  ],
+  "scrapedAt": "2025-07-29T21:42:14.948Z",
+  "detailedPrices": [
+    {
+      "roomIndex": 0,
+      "modalInfo": {
+        "title": "Kara Tarafı Oda",
+        "alert": "",
+        "modalType": "detailed-pricing"
+      },
+      "prices": [
+        {
+          "period": "17 Haziran - 26 Ağustos",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "27 Ağustos - 17 Eylül",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "18 Eylül - 06 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "10.769,00 TL",
+          "singlePrice": "18.307,50 TL",
+          "extraBed": "7.538,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "07 Ekim - 20 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "9.230,75 TL",
+          "singlePrice": "15.692,00 TL",
+          "extraBed": "6.461,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "21 Ekim - 31 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "7.692,25 TL",
+          "singlePrice": "13.076,50 TL",
+          "extraBed": "5.384,50 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        }
+      ]
+    },
+    {
+      "roomIndex": 1,
+      "modalInfo": {
+        "title": "Kara Tarafı Oda",
+        "alert": "",
+        "modalType": "detailed-pricing"
+      },
+      "prices": [
+        {
+          "period": "17 Haziran - 26 Ağustos",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "27 Ağustos - 17 Eylül",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "18 Eylül - 06 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "10.769,00 TL",
+          "singlePrice": "18.307,50 TL",
+          "extraBed": "7.538,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "07 Ekim - 20 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "9.230,75 TL",
+          "singlePrice": "15.692,00 TL",
+          "extraBed": "6.461,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "21 Ekim - 31 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "7.692,25 TL",
+          "singlePrice": "13.076,50 TL",
+          "extraBed": "5.384,50 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        }
+      ]
+    },
+    {
+      "roomIndex": 2,
+      "modalInfo": {
+        "title": "Kara Tarafı Oda",
+        "alert": "",
+        "modalType": "detailed-pricing"
+      },
+      "prices": [
+        {
+          "period": "17 Haziran - 26 Ağustos",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "27 Ağustos - 17 Eylül",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "18 Eylül - 06 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "10.769,00 TL",
+          "singlePrice": "18.307,50 TL",
+          "extraBed": "7.538,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "07 Ekim - 20 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "9.230,75 TL",
+          "singlePrice": "15.692,00 TL",
+          "extraBed": "6.461,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "21 Ekim - 31 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "7.692,25 TL",
+          "singlePrice": "13.076,50 TL",
+          "extraBed": "5.384,50 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        }
+      ]
+    },
+    {
+      "roomIndex": 3,
+      "modalInfo": {
+        "title": "Kara Tarafı Oda",
+        "alert": "",
+        "modalType": "detailed-pricing"
+      },
+      "prices": [
+        {
+          "period": "17 Haziran - 26 Ağustos",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "27 Ağustos - 17 Eylül",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "11.538,25 TL",
+          "singlePrice": "19.615,00 TL",
+          "extraBed": "8.077,00 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "18 Eylül - 06 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "10.769,00 TL",
+          "singlePrice": "18.307,50 TL",
+          "extraBed": "7.538,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "07 Ekim - 20 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "9.230,75 TL",
+          "singlePrice": "15.692,00 TL",
+          "extraBed": "6.461,51 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        },
+        {
+          "period": "21 Ekim - 31 Ekim",
+          "type": "Ultra Herşey DahilHergünMin. 3 gece",
+          "doublePrice": "7.692,25 TL",
+          "singlePrice": "13.076,50 TL",
+          "extraBed": "5.384,50 TL",
+          "childrenPricing": [
+            {
+              "childNumber": "1.Ç:",
+              "childAge": "0 - 11,99 yaş:",
+              "childPrice": "Ücretsiz"
+            },
+            {
+              "childNumber": "2.Ç:",
+              "childAge": "0 - 2,99 yaş:",
+              "childPrice": "Ücretsiz"
+            }
+          ],
+          "rawChildren": "1.Ç:\n                                            0 - 11,99 yaş:\n                                            Ücretsiz \n                                        \n                                                                                                                \n                                            2.Ç:\n                                            0 - 2,99 yaş:\n                                            Ücretsiz",
+          "hasChildrenTable": true,
+          "totalCells": 12
+        }
+      ]
+    }
+  ],
+  "searchParams": {
+    "hotelName": "adalya-ocean-deluxe",
+    "checkInDate": "31.07.2025",
+    "checkOutDate": "20.08.2025",
+    "adults": 2,
+    "children": 0,
+    "childAges": []
+  },
+  "scraper": "TatilsepetiScraper"
+}

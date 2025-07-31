@@ -1,0 +1,35 @@
+{
+  "timestamp": "2025-07-30_11-53-01-607Z",
+  "scrapeParameters": {
+    "hotelRelativeUrls": [
+      "/Concorde-De-Luxe-Resort",
+      "/Alba-Resort-Hotel"
+    ],
+    "checkInDate": "2025-09-01",
+    "checkOutDate": "2025-09-09",
+    "adults": 2,
+    "children": 1,
+    "childAges": [
+      5
+    ]
+  },
+  "totalHotels": 2,
+  "successfulScrapes": 2,
+  "failedScrapes": 0,
+  "hotels": [
+    {
+      "index": 0,
+      "success": true,
+      "hotelUrl": "/Concorde-De-Luxe-Resort",
+      "roomCount": 8,
+      "hasData": true
+    },
+    {
+      "index": 1,
+      "success": true,
+      "hotelUrl": "/Alba-Resort-Hotel",
+      "roomCount": 5,
+      "hasData": true
+    }
+  ]
+}

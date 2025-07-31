@@ -1,0 +1,1006 @@
+{
+  "hotelName": "Crystal Prestige Elite",
+  "hotelSlug": "crystal-prestige-elite",
+  "searchParams": {
+    "checkInDate": "2025-10-26",
+    "checkOutDate": "2025-10-30",
+    "adults": 2,
+    "children": 0
+  },
+  "rooms": [
+    {
+      "roomId": "J+EMI0t88sVIgBp5RUDpODUJlcwBsICVN0ElXBDmyHwnVO2kcwg93Qx3CPHcDIgvdg/G0eNoU4Q4Yiu2Gh4/6gmvtkP3tXK/32D8Q6MlJCw=",
+      "roomType": "Standart Oda Kara Manzaralı",
+      "roomName": "Standart Oda Kara Manzaralı",
+      "concept": "Ultimate Her Şey Dahil",
+      "minStay": "Minimum 3 Gece Konaklama",
+      "roomSize": "342 m2",
+      "bedType": "Çift Kişilik Yatak",
+      "view": "Kara Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Tüm odalarda seramik zemin olup, kartlı kilit sistemi, merkezi klima, uydu TV\nve müzik yayını, mini bar, kasa, direkt telefon, yangın ihbar ve söndürme\nsistemi, kablosuz internet bağlantısı, banyoda duşa kabin, çay-kahve setup,\ntelefon ve saç kurutma makinesi bulunmaktadırODA STANDARTLARI & ODA SERVİSLERİElektronik kapı kilit sistemi Günlük oda temizliği (her gün\n08:00 – 16:00 saatleri arasında)Yangın Alarmı Günlük çarşaf & havlu değişimiElektronik kasa Günlük mini bar yenileme (günlük 1 kez -\n08:00 – 16:00 saatleri arasında)Ulusal ve Uluslararası HD yayınlar Çocuk küveti (isteğe\nbağlı)Mini Bar Çocuk lazımlığı (isteğe bağlı)LCD TV Bebek yatağı (isteğe bağlı)Müzik Yayını ( TV kanallarından )Çizgi Film kanallarıWC, duşa kabin banyoBanyo ve odada direkt hatlı telefonMerkezi klima SistemiTek kişilik veya çift kişilik geniş yatakBalkon (ekonomi odalarında ise Fransız balkon bulunmaktadır)Balkon askısı (Ekonomi odasında bulunmamaktadır)Saç kurutma makinesiMakyaj masası ve aynasıBanyo buklet seti & banyo havluları & terlikÜcretsiz WIFI bağlantısı",
+      "amenities": [
+        {
+          "name": "Makyaj Masası",
+          "isPaid": false
+        },
+        {
+          "name": "Özel Banyo Malzemeleri",
+          "isPaid": false
+        },
+        {
+          "name": "Havlu Terlik",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Seramik Zemin",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Saç Kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Askısı",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Oturma Grubu",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi yada Split Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Banyo Telefonu",
+          "isPaid": true
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Duşakabin",
+          "isPaid": false
+        },
+        {
+          "name": "Banyo/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Müzik Yayını (TV kanallarında)",
+          "isPaid": false
+        },
+        {
+          "name": "Ulusal ve Uluslararası HD Yayınlar",
+          "isPaid": false
+        },
+        {
+          "name": "Kanepe",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Anahtar Sistemi",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Su Isıtıcısı",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd TV",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Kara Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "34 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/e7eb41ca-4c78-4eea-8b55-19df84a41137-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/e7eb41ca-4c78-4eea-8b55-19df84a41137-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/2ba45b85-fcda-49c7-b140-2c5c0cf5a1c6-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/2ba45b85-fcda-49c7-b140-2c5c0cf5a1c6-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5a0c24cc-d80f-49eb-a4a0-74c397e87e25-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5a0c24cc-d80f-49eb-a4a0-74c397e87e25-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-1024.jpg"
+        }
+      ],
+      "campaignTags": [],
+      "cancellationPolicy": "Ücretsiz İptal",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "39.200,00TL",
+        "currentPrice": "28.224,00",
+        "discountPercent": "%28 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "26.10.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "9.800,00TL",
+          "currentPrice": "7.056,00TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "27.10.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "9.800,00TL",
+          "currentPrice": "7.056,00TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "28.10.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "9.800,00TL",
+          "currentPrice": "7.056,00TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "29.10.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "9.800,00TL",
+          "currentPrice": "7.056,00TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "J+EMI0t88sVIgBp5RUDpODUJlcwBsICVN0ElXBDmyHz6pAvwhgg0Jh/19ZAe9gAYKQdCy12FrniR+gfR413MDJJxkVmZCerd8zUb26px7sI=",
+      "roomType": "Yandan  Deniz Manzaralı Standart Oda ",
+      "roomName": "Yandan  Deniz Manzaralı Standart Oda",
+      "concept": "Ultimate Her Şey Dahil",
+      "minStay": "Minimum 3 Gece Konaklama",
+      "roomSize": "342 m2",
+      "bedType": "Tek Kişilik Yatak, Çift Kişilik Yatak",
+      "view": "Yandan Deniz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Tüm odalarda seramik zemin olup, kartlı kilit sistemi, merkezi klima, uydu TV ve müzik yayını, mini bar, kasa, direkt telefon, yangın ihbar ve söndürme sistemi, kablosuz internet bağlantısı, banyoda duşa kabin, çay-kahve setup, telefon ve saç kurutma makinesi bulunmaktadırODA STANDARTLARI & ODA SERVİSLERİElektronik kapı kilit sistemi Günlük oda temizliği (her gün 08:00 – 16:00 saatleri arasında)Yangın Alarmı Günlük çarşaf & havlu değişimiElektronik kasa Günlük mini bar yenileme (günlük 1 kez - 08:00 – 16:00 saatleri arasında)Ulusal ve Uluslararası HD yayınlar Çocuk küveti (isteğe bağlı)Mini Bar Çocuk lazımlığı (isteğe bağlı)LCD TV Bebek yatağı (isteğe bağlı)Müzik Yayını ( TV kanallarından )Çizgi Film kanallarıWC, duşa kabin banyoBanyo ve odada direkt hatlı telefonMerkezi klima SistemiTek kişilik veya çift kişilik geniş yatakBalkon (ekonomi odalarında ise Fransız balkon bulunmaktadır)Balkon askısı (Ekonomi odasında bulunmamaktadır)Saç kurutma makinesiMakyaj masası ve aynasıBanyo buklet seti & banyo havluları & terlikÜcretsiz WIFI bağlantısı",
+      "amenities": [
+        {
+          "name": "Kanepe",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Anahtar Sistemi",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Su Isıtıcısı",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd TV",
+          "isPaid": false
+        },
+        {
+          "name": "Ulusal ve Uluslararası HD Yayınlar",
+          "isPaid": false
+        },
+        {
+          "name": "Müzik Yayını (TV kanallarında)",
+          "isPaid": false
+        },
+        {
+          "name": "Banyo/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Duşakabin",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Banyo Telefonu",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi yada Split Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Oturma Grubu",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Askısı",
+          "isPaid": false
+        },
+        {
+          "name": "Saç Kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj Masası",
+          "isPaid": false
+        },
+        {
+          "name": "Özel Banyo Malzemeleri",
+          "isPaid": false
+        },
+        {
+          "name": "Havlu Terlik",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Seramik Zemin",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Yandan Deniz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Tek Kişilik Yatak, Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "34 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/e7eb41ca-4c78-4eea-8b55-19df84a41137-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/e7eb41ca-4c78-4eea-8b55-19df84a41137-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/2ba45b85-fcda-49c7-b140-2c5c0cf5a1c6-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/2ba45b85-fcda-49c7-b140-2c5c0cf5a1c6-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5a0c24cc-d80f-49eb-a4a0-74c397e87e25-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5a0c24cc-d80f-49eb-a4a0-74c397e87e25-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-1024.jpg"
+        }
+      ],
+      "campaignTags": [],
+      "cancellationPolicy": "Ücretsiz İptal",
+      "childPolicy": "0 - 11 Yaş Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "40.000,00TL",
+        "currentPrice": "28.800,00",
+        "discountPercent": "%28 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "26.10.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "10.000,00TL",
+          "currentPrice": "7.200,00TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "27.10.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "10.000,00TL",
+          "currentPrice": "7.200,00TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "28.10.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "10.000,00TL",
+          "currentPrice": "7.200,00TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "29.10.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "10.000,00TL",
+          "currentPrice": "7.200,00TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "J+EMI0t88sVIgBp5RUDpODUJlcwBsICVN0ElXBDmyHwQQ+UsYy7p8Z71EY0pVKC38PWP16V4I88obumhaMGeUAl376aY0b1iVasPKt44yOk=",
+      "roomType": "Havuz Aile Odası",
+      "roomName": "Havuz Aile Odası",
+      "concept": "Ultimate Her Şey Dahil",
+      "minStay": "Minimum 3 Gece Konaklama",
+      "roomSize": "402 m2",
+      "bedType": "Tek Kişilik Yatak, Çift Kişilik Yatak",
+      "view": "Havuz Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "Çift kişilik ve tek kişilik yataklar mevcuttur, kanepe ve standart odaların tüm\nözellikleri mevcuttur. Kartlı kilit sistemi, merkezi klima, uydu TV ve müzik\nyayını, mini bar, kasa, direkt telefon, yangın ihbar ve söndürme sistemi,\nkablosuz internet bağlantısı, banyoda duşa kabin, çay-kahve setup, telefon ve\nsaç kurutma makinesi bulunmaktadır. Tek banyo vardır.ODA STANDARTLARI & ODA SERVİSLERİElektronik kapı kilit sistemi Günlük oda temizliği (her gün 08:00 – 16:00 saatleri arasında)Yangın Alarmı Günlük çarşaf & havlu değişimiElektronik kasa Günlük mini bar yenileme (günlük 1 kez - 08:00 – 16:00 saatleri arasında)Ulusal ve Uluslararası HD yayınlar Çocuk küveti (isteğe bağlı)Mini Bar Çocuk lazımlığı (isteğe bağlı)LCD TV Bebek yatağı (isteğe bağlı)Müzik Yayını ( TV kanallarından )Çizgi Film kanallarıWC, duşa kabin banyoBanyo ve odada direkt hatlı telefonMerkezi klima SistemiTek kişilik veya çift kişilik geniş yatakBalkon (ekonomi odalarında ise Fransız balkon bulunmaktadır)Balkon askısı (Ekonomi odasında bulunmamaktadır)Saç kurutma makinesiMakyaj masası ve aynasıBanyo buklet seti & banyo havluları & terlikÜcretsiz WIFI bağlantısı",
+      "amenities": [
+        {
+          "name": "Kanepe",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Anahtar Sistemi",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Su Isıtıcısı",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd TV",
+          "isPaid": false
+        },
+        {
+          "name": "Ulusal ve Uluslararası HD Yayınlar",
+          "isPaid": false
+        },
+        {
+          "name": "Müzik Yayını (TV kanallarında)",
+          "isPaid": false
+        },
+        {
+          "name": "Banyo/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Duşakabin",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Banyo Telefonu",
+          "isPaid": true
+        },
+        {
+          "name": "Merkezi yada Split Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj Masası",
+          "isPaid": false
+        },
+        {
+          "name": "Özel Banyo Malzemeleri",
+          "isPaid": false
+        },
+        {
+          "name": "Havlu Terlik",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Seramik Zemin",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Saç Kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Askısı",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Oturma Grubu",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Havuz Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Tek Kişilik Yatak, Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "40 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/76ccd2b1-a585-4338-8406-6769a639da05-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/76ccd2b1-a585-4338-8406-6769a639da05-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/9d08b22a-29ca-4648-8bf2-467feb6dcb30-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/9d08b22a-29ca-4648-8bf2-467feb6dcb30-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/6dc5b5e9-0711-48db-a7a4-0f9b4a53adec-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/6dc5b5e9-0711-48db-a7a4-0f9b4a53adec-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/3c4a79a2-fc2e-44b6-83ea-e1d116143ca8-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/3c4a79a2-fc2e-44b6-83ea-e1d116143ca8-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/50ec90ae-919f-495c-abff-6c6ab25c3ef6-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/50ec90ae-919f-495c-abff-6c6ab25c3ef6-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/9f883f81-1efb-41fe-afab-3746aebaca8e-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/9f883f81-1efb-41fe-afab-3746aebaca8e-1024.jpg"
+        }
+      ],
+      "campaignTags": [],
+      "cancellationPolicy": "Ücretsiz İptal",
+      "childPolicy": "2 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "52.920,00TL",
+        "currentPrice": "38.102,40",
+        "discountPercent": "%28 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "26.10.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "27.10.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "28.10.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "29.10.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "J+EMI0t88sVIgBp5RUDpOPKnl1++cR017ix5SPbdnDIP84Q6Yqs0nL1bRTvdNLDIUAjnPhzb/jKIooSwpS+sNyh39DWRKYFeVK7qufR2OnU=",
+      "roomType": "Ranzalı Standart Oda",
+      "roomName": "Ranzalı Standart Oda",
+      "concept": "Ultimate Her Şey Dahil",
+      "minStay": "Minimum 3 Gece Konaklama",
+      "roomSize": "342 m2",
+      "bedType": "",
+      "view": "Kara Manzaralı",
+      "smokingPolicy": "",
+      "description": "Tüm odalarda seramik zemin olup, kartlı kilit sistemi, merkezi klima, uydu TV\nve müzik yayını, mini bar, kasa, direkt telefon, yangın ihbar ve söndürme\nsistemi, kablosuz internet bağlantısı, banyoda duşa kabin, çay-kahve setup,\ntelefon ve saç kurutma makinesi bulunmaktadır.ODA STANDARTLARI & ODA SERVİSLERİElektronik kapı kilit sistemi Günlük oda temizliği (her gün 08:00 – 16:00 saatleri arasında)Yangın Alarmı Günlük çarşaf & havlu değişimiElektronik kasa Günlük mini bar yenileme (günlük 1 kez - 08:00 – 16:00 saatleri arasında)Ulusal ve Uluslararası HD yayınlar Çocuk küveti (isteğe bağlı)Mini Bar Çocuk lazımlığı (isteğe bağlı)LCD TV Bebek yatağı (isteğe bağlı)Müzik Yayını ( TV kanallarından )Çizgi Film kanallarıWC, duşa kabin banyoBanyo ve odada direkt hatlı telefonMerkezi klima SistemiTek kişilik veya çift kişilik geniş yatakBalkon (ekonomi odalarında ise Fransız balkon bulunmaktadır)Balkon askısı (Ekonomi odasında bulunmamaktadır)Saç kurutma makinesiMakyaj masası ve aynasıBanyo buklet seti & banyo havluları & terlikÜcretsiz WIFI bağlantısı",
+      "amenities": [
+        {
+          "name": "Duşakabin",
+          "isPaid": false
+        },
+        {
+          "name": "Su Isıtıcısı",
+          "isPaid": false
+        },
+        {
+          "name": "Banyo/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Saç Kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd TV",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Kara Manzaralı"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "34 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/f2674ec3-c255-44bb-bdca-27f0b5e216a1-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/f2674ec3-c255-44bb-bdca-27f0b5e216a1-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/919994f0-b181-4bf3-a2e8-ad1b5ec8ef22-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/919994f0-b181-4bf3-a2e8-ad1b5ec8ef22-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/abfa2a72-61ed-4520-aa6a-3a59dc9fd888-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/abfa2a72-61ed-4520-aa6a-3a59dc9fd888-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/a4b0bfeb-52ae-4e43-809f-190bad98937f-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/a4b0bfeb-52ae-4e43-809f-190bad98937f-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-1024.jpg"
+        }
+      ],
+      "campaignTags": [],
+      "cancellationPolicy": "Ücretsiz İptal",
+      "childPolicy": "2 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "52.920,00TL",
+        "currentPrice": "38.102,40",
+        "discountPercent": "%28 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "26.10.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "27.10.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "28.10.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "29.10.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "13.230,00TL",
+          "currentPrice": "9.525,60TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "J+EMI0t88sVIgBp5RUDpODUJlcwBsICVN0ElXBDmyHw0MmyIRUQB3rRfFqMTZk8JclAFg5G+jHX/ZMDOlasHq5KF0rue2FCP9LAhoBfPNZQ=",
+      "roomType": "Dublex Aile Odası Kara Manz",
+      "roomName": "Dublex Aile Odası Kara Manz",
+      "concept": "Ultimate Her Şey Dahil",
+      "minStay": "Minimum 3 Gece Konaklama",
+      "roomSize": "502 m2",
+      "bedType": "Tek Kişilik Yatak, Çift Kişilik Yatak",
+      "view": "Kara Manzaralı",
+      "smokingPolicy": "Sigara İçilemez",
+      "description": "2 yatak odalı, 2 banyo , kanepe ve standart odaların tüm özellikleri mevcuttur.\nKartlı kilit sistemi, merkezi klima, uydu TV ve müzik yayını, mini bar, kasa,\ndirekt telefon, yangın ihbar ve söndürme sistemi, kablosuz internet bağlantısı,\nbanyoda duşa kabin, çay-kahve setup, telefon ve saç kurutma makinesi\nbulunmaktadır.. (odalarda ara kapı bulunmamaktadır)ODA STANDARTLARI & ODA SERVİSLERİElektronik kapı kilit sistemi Günlük oda temizliği (her gün 08:00 – 16:00 saatleri arasında)Yangın Alarmı Günlük çarşaf & havlu değişimiElektronik kasa Günlük mini bar yenileme (günlük 1 kez - 08:00 – 16:00 saatleri arasında)Ulusal ve Uluslararası HD yayınlar Çocuk küveti (isteğe bağlı)Mini Bar Çocuk lazımlığı (isteğe bağlı)LCD TV Bebek yatağı (isteğe bağlı)Müzik Yayını ( TV kanallarından )Çizgi Film kanallarıWC, duşa kabin banyoBanyo ve odada direkt hatlı telefonMerkezi klima SistemiTek kişilik veya çift kişilik geniş yatakBalkon (ekonomi odalarında ise Fransız balkon bulunmaktadır)Balkon askısı (Ekonomi odasında bulunmamaktadır)Saç kurutma makinesiMakyaj masası ve aynasıBanyo buklet seti & banyo havluları & terlikÜcretsiz WIFI bağlantısı",
+      "amenities": [
+        {
+          "name": "Seramik Zemin",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Havlu Terlik",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj Masası",
+          "isPaid": false
+        },
+        {
+          "name": "Özel Banyo Malzemeleri",
+          "isPaid": false
+        },
+        {
+          "name": "Makyaj aynası",
+          "isPaid": false
+        },
+        {
+          "name": "Saç Kurutma Makinesi",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Askısı",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon Oturma Grubu",
+          "isPaid": false
+        },
+        {
+          "name": "Balkon",
+          "isPaid": false
+        },
+        {
+          "name": "Merkezi yada Split Klima",
+          "isPaid": false
+        },
+        {
+          "name": "Banyo Telefonu",
+          "isPaid": true
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Banyo/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Müzik Yayını (TV kanallarında)",
+          "isPaid": false
+        },
+        {
+          "name": "Ulusal ve Uluslararası HD Yayınlar",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd TV",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Su Isıtıcısı",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Anahtar Sistemi",
+          "isPaid": false
+        },
+        {
+          "name": "Kanepe",
+          "isPaid": false
+        }
+      ],
+      "badges": [
+        {
+          "icon": "icon icon-view",
+          "text": "Kara Manzaralı"
+        },
+        {
+          "icon": "icon icon-no-smoking",
+          "text": "Sigara İçilemez"
+        },
+        {
+          "icon": "icon icon-room-count",
+          "text": "Tek Kişilik Yatak, Çift Kişilik Yatak"
+        },
+        {
+          "icon": "icon icon-alan",
+          "text": "50 m2"
+        }
+      ],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/f5f61a7e-a49f-4a29-8065-5d6b14a4c1c2-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/f5f61a7e-a49f-4a29-8065-5d6b14a4c1c2-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/99a48249-9296-44cb-b006-e1aaff3e77e1-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/99a48249-9296-44cb-b006-e1aaff3e77e1-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/deb20600-4445-4fc2-8e68-f73524eb7e31-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/deb20600-4445-4fc2-8e68-f73524eb7e31-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/2241c54d-55c5-4346-b81a-ae871dd59629-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/2241c54d-55c5-4346-b81a-ae871dd59629-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5e00d955-9b57-4fa2-95be-abf28104e5ee-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5e00d955-9b57-4fa2-95be-abf28104e5ee-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/02cd9b45-f94a-4b9a-ba9c-b503707d6495-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/02cd9b45-f94a-4b9a-ba9c-b503707d6495-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/1fc81544-97dc-461c-8277-248e90db2d20-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/1fc81544-97dc-461c-8277-248e90db2d20-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/2e279832-4f0a-4d00-98f2-735859d8aaf0-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/2e279832-4f0a-4d00-98f2-735859d8aaf0-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/3e8f50ca-1a77-4c58-947d-60939bff3433-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/3e8f50ca-1a77-4c58-947d-60939bff3433-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-1024.jpg"
+        }
+      ],
+      "campaignTags": [],
+      "cancellationPolicy": "Ücretsiz İptal",
+      "childPolicy": "2 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "53.900,00TL",
+        "currentPrice": "38.808,00",
+        "discountPercent": "%28 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "26.10.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "13.475,00TL",
+          "currentPrice": "9.702,00TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "27.10.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "13.475,00TL",
+          "currentPrice": "9.702,00TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "28.10.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "13.475,00TL",
+          "currentPrice": "9.702,00TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "29.10.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "13.475,00TL",
+          "currentPrice": "9.702,00TL"
+        }
+      ],
+      "isAvailable": true
+    },
+    {
+      "roomId": "J+EMI0t88sVIgBp5RUDpOPKnl1++cR017ix5SPbdnDLa3aLiD97vhmUxm0e5LOaFl4NScHJjSO7mUAcIuMAt48xjKD7jZ5QxicT6KfGIr0s=",
+      "roomType": "Kısmi Deniz Mnz Dublex Aile Odası",
+      "roomName": "Kısmi Deniz Mnz Dublex Aile Odası",
+      "concept": "Ultimate Her Şey Dahil",
+      "minStay": "Minimum 3 Gece Konaklama",
+      "roomSize": "",
+      "bedType": "",
+      "view": "",
+      "smokingPolicy": "",
+      "description": "",
+      "amenities": [
+        {
+          "name": "Duşakabin",
+          "isPaid": false
+        },
+        {
+          "name": "Çay - Kahve Seti",
+          "isPaid": false
+        },
+        {
+          "name": "Elektronik Kasa",
+          "isPaid": false
+        },
+        {
+          "name": "Banyo/WC",
+          "isPaid": false
+        },
+        {
+          "name": "Su Isıtıcısı",
+          "isPaid": false
+        },
+        {
+          "name": "Minibar",
+          "isPaid": false
+        },
+        {
+          "name": "Lcd TV",
+          "isPaid": false
+        },
+        {
+          "name": "Telefon",
+          "isPaid": true
+        },
+        {
+          "name": "Saç Kurutma Makinesi",
+          "isPaid": false
+        }
+      ],
+      "badges": [],
+      "images": [
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/f5f61a7e-a49f-4a29-8065-5d6b14a4c1c2-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/f5f61a7e-a49f-4a29-8065-5d6b14a4c1c2-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/99a48249-9296-44cb-b006-e1aaff3e77e1-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/99a48249-9296-44cb-b006-e1aaff3e77e1-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/2241c54d-55c5-4346-b81a-ae871dd59629-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/2241c54d-55c5-4346-b81a-ae871dd59629-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/1fc81544-97dc-461c-8277-248e90db2d20-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/1fc81544-97dc-461c-8277-248e90db2d20-1024.jpg"
+        },
+        {
+          "thumbnail": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-150.jpg",
+          "fullSize": "https://cdng.jollytur.com/files/cms/media/hotel/5eb0fd98-2567-4572-9b64-ec6b189ac846-1024.jpg"
+        }
+      ],
+      "campaignTags": [],
+      "cancellationPolicy": "Ücretsiz İptal",
+      "childPolicy": "2 Çocuk Ücretsiz",
+      "totalPrice": {
+        "oldPrice": "56.000,00TL",
+        "currentPrice": "40.320,00",
+        "discountPercent": "%28 İndirim",
+        "currency": "TL"
+      },
+      "dailyPrices": [
+        {
+          "day": "1.GÜN",
+          "date": "26.10.2025",
+          "dayOfWeek": "Pazar",
+          "oldPrice": "14.000,00TL",
+          "currentPrice": "10.080,00TL"
+        },
+        {
+          "day": "2.GÜN",
+          "date": "27.10.2025",
+          "dayOfWeek": "Pazartesi",
+          "oldPrice": "14.000,00TL",
+          "currentPrice": "10.080,00TL"
+        },
+        {
+          "day": "3.GÜN",
+          "date": "28.10.2025",
+          "dayOfWeek": "Salı",
+          "oldPrice": "14.000,00TL",
+          "currentPrice": "10.080,00TL"
+        },
+        {
+          "day": "4.GÜN",
+          "date": "29.10.2025",
+          "dayOfWeek": "Çarşamba",
+          "oldPrice": "14.000,00TL",
+          "currentPrice": "10.080,00TL"
+        }
+      ],
+      "isAvailable": true
+    }
+  ],
+  "scrapedAt": "2025-07-30T18:27:51.180Z",
+  "totalRooms": 6,
+  "scraper": "JollyTurScraper"
+}

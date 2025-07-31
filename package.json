@@ -1,0 +1,58 @@
+{
+  "name": "stayscraper",
+  "version": "1.0.0",
+  "description": "A comprehensive hotel price scraping system built with Node.js, TypeScript, and Puppeteer. Designed to extract hotel pricing data from booking websites like Etstur.com with anti-detection measures and scalable architecture.",
+  "main": "index.js",
+  "scripts": {
+    "build": "npx tsc",
+    "start": "node -r tsconfig-paths/register dist/src/index.js",
+    "dev": "ts-node-dev --respawn --transpile-only -r tsconfig-paths/register src/index.ts",
+    "test": "jest",
+    "lint": "eslint src --ext .ts",
+    "lint:fix": "eslint src --ext .ts --fix",
+    "format": "prettier --write \"src/**/*.ts\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mehmetcanozen/stayscraper.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mehmetcanozen/stayscraper/issues"
+  },
+  "homepage": "https://github.com/mehmetcanozen/stayscraper#readme",
+  "dependencies": {
+    "axios": "^1.11.0",
+    "compression": "^1.8.1",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.1",
+    "express": "^5.1.0",
+    "helmet": "^8.1.0",
+    "puppeteer": "^24.15.0",
+    "puppeteer-extra": "^3.3.6",
+    "puppeteer-extra-plugin-stealth": "^2.11.2",
+    "winston": "^3.17.0"
+  },
+  "devDependencies": {
+    "@eslint/js": "^9.32.0",
+    "@types/compression": "^1.8.1",
+    "@types/cors": "^2.8.19",
+    "@types/express": "^5.0.3",
+    "@types/helmet": "^0.0.48",
+    "@types/jest": "^30.0.0",
+    "@types/node": "^24.1.0",
+    "@types/puppeteer": "^5.4.7",
+    "@types/winston": "^2.4.4",
+    "eslint": "^9.32.0",
+    "globals": "^16.3.0",
+    "jest": "^30.0.5",
+    "prettier": "^3.6.2",
+    "supertest": "^7.1.4",
+    "ts-node-dev": "^2.0.0",
+    "tsconfig-paths": "^4.2.0",
+    "typescript": "^5.8.3",
+    "typescript-eslint": "^8.38.0"
+  }
+}

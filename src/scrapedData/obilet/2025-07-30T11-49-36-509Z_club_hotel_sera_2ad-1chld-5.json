@@ -1,0 +1,293 @@
+{
+  "hotelName": "Club Hotel Sera",
+  "hotelId": "101451",
+  "searchParams": {
+    "checkInDate": "2025-07-31",
+    "checkOutDate": "2025-08-01",
+    "adults": 2,
+    "children": 1,
+    "childAges": [
+      5
+    ]
+  },
+  "rooms": [
+    {
+      "roomName": "Elegance Oda",
+      "displayName": "Elegance Oda - 32 m2",
+      "roomSize": 32,
+      "roomSizeUnit": "m2",
+      "price": 13728,
+      "currency": "TRY",
+      "boardType": "Ultra Her Şey Dahil",
+      "isRefundable": false,
+      "attributes": [],
+      "mediaFiles": [
+        {
+          "url": null,
+          "urlFull": "https://cdng.jollytur.com/files/cms/media/hotel/0d5c7fd0-7251-44b4-8516-534fc9d16bf5.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        }
+      ],
+      "offers": [
+        {
+          "id": "2$2$TR~^005^~23504~^005^~13728.0000~^005^~4~^005^~13728.00~^005^~1f9207dc-dcf1-4176-b767-ae363bba12ab",
+          "availability": 1,
+          "expiresOn": "2025-07-30T12:19:29.3760696Z",
+          "isAvailable": true,
+          "isRefundable": false,
+          "boardItem": {
+            "id": "0",
+            "name": "Ultra Her Şey Dahil",
+            "boardCategoryId": 44,
+            "boardCategoryName": "Ultra Her Şey Dahil",
+            "showOnCard": true,
+            "priority": 6
+          },
+          "price": {
+            "amount": 13728,
+            "currency": "TRY",
+            "fakeAmount": 13728,
+            "discount": 0,
+            "discountRatio": 0,
+            "virtualAmount": 13728,
+            "offerDiscounts": []
+          },
+          "dailyPrice": 13728,
+          "dailyRoomPrice": 13728,
+          "roomPrice": 13728,
+          "cancellationPolicies": [
+            {
+              "beginDate": "0001-01-01T00:00:00",
+              "dueDate": "2025-07-30T14:49:33.060636",
+              "modifiedDueDate": "2025-07-30T14:49:33.060636",
+              "price": {
+                "amount": 13728,
+                "currency": "TRY",
+                "fakeAmount": 0,
+                "discount": 0,
+                "discountRatio": 0,
+                "virtualAmount": 0,
+                "offerDiscounts": []
+              },
+              "roomNumber": null
+            }
+          ],
+          "supplier": {
+            "name": "JOLLY"
+          },
+          "refundableInfo": 2,
+          "handicaps": [],
+          "paymentOptions": [],
+          "taxInformation": {
+            "accommodationTaxInfo": {
+              "included": false,
+              "percent": 0
+            }
+          },
+          "additionalInfo": [
+            {
+              "Key": "MarriageCertificateRestriction",
+              "Value": "False"
+            },
+            {
+              "Key": "PetRestriction",
+              "Value": "True"
+            },
+            {
+              "Key": "DocumentNumber",
+              "Value": "2022-7-1505"
+            }
+          ],
+          "display": true,
+          "foreignCurrency": false,
+          "travellers": [
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 2,
+              "age": 5
+            }
+          ],
+          "roomDivedTravellers": {
+            "0": [
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 2,
+                "age": 5
+              }
+            ]
+          },
+          "payInHotel": false,
+          "freeChildAges": [
+            {
+              "from": 0,
+              "to": 6.99,
+              "whichChild": 1
+            }
+          ],
+          "isHandicaps": false
+        }
+      ]
+    },
+    {
+      "roomName": "Aile Odası",
+      "displayName": "Aile Odası - 40 m2",
+      "roomSize": 40,
+      "roomSizeUnit": "m2",
+      "price": 24024,
+      "currency": "TRY",
+      "boardType": "Ultra Her Şey Dahil",
+      "isRefundable": false,
+      "attributes": [
+        {
+          "attributeTag": "RoomType",
+          "attributeValue": "Aile Odası",
+          "icon": null
+        },
+        {
+          "attributeTag": "RoomSize",
+          "attributeValue": "40 m2",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/RoomSize.svg"
+        }
+      ],
+      "mediaFiles": [
+        {
+          "url": null,
+          "urlFull": "https://cdng.jollytur.com/files/cms/media/hotel/8c5e128c-e2d0-4126-8206-76501cde368f.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        }
+      ],
+      "offers": [
+        {
+          "id": "2$2$TR~^005^~23504~^005^~24024.000000000000000000000000~^005^~4~^005^~24024.00~^005^~5644e87a-4e17-4ca4-9217-067158808bc5",
+          "availability": 1,
+          "expiresOn": "2025-07-30T12:19:29.3760696Z",
+          "isAvailable": true,
+          "isRefundable": false,
+          "boardItem": {
+            "id": "0",
+            "name": "Ultra Her Şey Dahil",
+            "boardCategoryId": 44,
+            "boardCategoryName": "Ultra Her Şey Dahil",
+            "showOnCard": true,
+            "priority": 6
+          },
+          "price": {
+            "amount": 24024,
+            "currency": "TRY",
+            "fakeAmount": 24024,
+            "discount": 0,
+            "discountRatio": 0,
+            "virtualAmount": 24024,
+            "offerDiscounts": []
+          },
+          "dailyPrice": 24024,
+          "dailyRoomPrice": 24024,
+          "roomPrice": 24024,
+          "cancellationPolicies": [
+            {
+              "beginDate": "0001-01-01T00:00:00",
+              "dueDate": "2025-07-30T14:49:33.3911514",
+              "modifiedDueDate": "2025-07-30T14:49:33.3911514",
+              "price": {
+                "amount": 24024,
+                "currency": "TRY",
+                "fakeAmount": 0,
+                "discount": 0,
+                "discountRatio": 0,
+                "virtualAmount": 0,
+                "offerDiscounts": []
+              },
+              "roomNumber": null
+            }
+          ],
+          "supplier": {
+            "name": "JOLLY"
+          },
+          "refundableInfo": 2,
+          "handicaps": [],
+          "paymentOptions": [],
+          "taxInformation": {
+            "accommodationTaxInfo": {
+              "included": false,
+              "percent": 0
+            }
+          },
+          "additionalInfo": [
+            {
+              "Key": "MarriageCertificateRestriction",
+              "Value": "False"
+            },
+            {
+              "Key": "PetRestriction",
+              "Value": "True"
+            },
+            {
+              "Key": "DocumentNumber",
+              "Value": "2022-7-1505"
+            }
+          ],
+          "display": true,
+          "foreignCurrency": false,
+          "travellers": [
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 2,
+              "age": 5
+            }
+          ],
+          "roomDivedTravellers": {
+            "0": [
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 2,
+                "age": 5
+              }
+            ]
+          },
+          "payInHotel": false,
+          "freeChildAges": [
+            {
+              "from": 0,
+              "to": 6.99,
+              "whichChild": 1
+            }
+          ],
+          "isHandicaps": false
+        }
+      ]
+    }
+  ],
+  "scrapedAt": "2025-07-30T11:49:36.508Z"
+}

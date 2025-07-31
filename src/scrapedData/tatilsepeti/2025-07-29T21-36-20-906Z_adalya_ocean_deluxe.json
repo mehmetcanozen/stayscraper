@@ -1,0 +1,82 @@
+{
+  "success": true,
+  "hotelName": "Adalya Ocean Deluxe",
+  "rooms": [
+    {
+      "name": "Kara Tarafı Oda",
+      "size": "31 m2",
+      "features": [
+        "Oda Genişliği 31 m2",
+        "Balkon",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "461.530,00 TL",
+      "discountedPrice": "281.302,54 TL",
+      "discount": "%39 indirim",
+      "capacity": "En fazla 3 yetişkin + 1 bebek (0-2 yaş) veya 2 yetişkin + 1 çocuk + 1 bebek (0-2 yaş).",
+      "hasError": false,
+      "available": true
+    },
+    {
+      "name": "Yandan Deniz Manzaralı Oda",
+      "size": "31 m2",
+      "features": [
+        "Oda Genişliği 31 m2",
+        "Balkon",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "467.690,00 TL",
+      "discountedPrice": "285.057,06 TL",
+      "discount": "%39 indirim",
+      "capacity": "En fazla 3 yetişkin + 1 bebek (0-2 yaş) veya 2 yetişkin + 1 çocuk + 1 bebek (0-2 yaş).",
+      "hasError": false,
+      "available": true
+    },
+    {
+      "name": "Direkt Deniz Manzaralı Standart Oda",
+      "size": "31 m2",
+      "features": [
+        "Oda Genişliği 31 m2",
+        "Balkon",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "480.000,00 TL",
+      "discountedPrice": "292.560,00 TL",
+      "discount": "%39 indirim",
+      "capacity": "En fazla 3 yetişkin + 1 bebek (0-2 yaş) veya 2 yetişkin + 1 çocuk + 1 bebek (0-2 yaş).",
+      "hasError": false,
+      "available": true
+    },
+    {
+      "name": "Yandan Deniz Manzaralı Aile Odası",
+      "size": "40 m2",
+      "features": [
+        "Oda Genişliği 40 m2",
+        "Duşakabin",
+        "Minibar"
+      ],
+      "concept": "Ultra Herşey Dahil",
+      "totalPrice": "701.530,20 TL",
+      "discountedPrice": "427.582,66 TL",
+      "discount": "%39 indirim",
+      "capacity": "En az 3 yetişkin, En fazla 4 yetişkin veya 3 yetişkin + 2 çocuk.",
+      "hasError": false,
+      "available": true
+    }
+  ],
+  "scrapedAt": "2025-07-29T21:36:20.906Z",
+  "searchParams": {
+    "hotelName": "adalya-ocean-deluxe",
+    "checkInDate": "31.07.2025",
+    "checkOutDate": "20.08.2025",
+    "adults": 2,
+    "children": 0
+  },
+  "scraper": "TatilsepetiScraper"
+}

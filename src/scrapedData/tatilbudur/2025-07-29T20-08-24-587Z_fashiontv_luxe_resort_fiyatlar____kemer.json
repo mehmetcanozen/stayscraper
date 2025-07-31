@@ -1,0 +1,360 @@
+{
+  "success": true,
+  "hotelName": "FashionTV Luxe Resort Fiyatları - Kemer",
+  "rooms": [
+    {
+      "name": "Dağ Manzaralı Superior Oda",
+      "size": "42 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "35.100 ₺",
+      "originalPrice": "35.100 ₺",
+      "tbPoints": "1053 TB Puan Kazan",
+      "index": 0
+    },
+    {
+      "name": "Kara Manzaralı Superior Oda",
+      "size": "42 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "36.180 ₺",
+      "originalPrice": "36.180 ₺",
+      "tbPoints": "1085 TB Puan Kazan",
+      "index": 1
+    },
+    {
+      "name": "Deniz Manzaralı Superior Oda",
+      "size": "34 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "37.980 ₺",
+      "originalPrice": "37.980 ₺",
+      "tbPoints": "1139 TB Puan Kazan",
+      "index": 2
+    },
+    {
+      "name": "Kısmi Deniz Manzaralı Deluxe Oda",
+      "size": "42 m2",
+      "features": [
+        "Merkezi Klima",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Balkon",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "39.240 ₺",
+      "originalPrice": "39.240 ₺",
+      "tbPoints": "1177 TB Puan Kazan",
+      "index": 3
+    },
+    {
+      "name": "Deniz Manzaralı Deluxe Oda",
+      "size": "42 m2",
+      "features": [
+        "Merkezi Klima",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Balkon",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "40.500 ₺",
+      "originalPrice": "40.500 ₺",
+      "tbPoints": "1215 TB Puan Kazan",
+      "index": 4
+    },
+    {
+      "name": "Deluxe Geniş Oda",
+      "size": "65 m2",
+      "features": [
+        "Merkezi Klima",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "42.300 ₺",
+      "originalPrice": "42.300 ₺",
+      "tbPoints": "1269 TB Puan Kazan",
+      "index": 5
+    },
+    {
+      "name": "Dublex Orman Manzaralı Oda",
+      "size": "55 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "43.560 ₺",
+      "originalPrice": "43.560 ₺",
+      "tbPoints": "1307 TB Puan Kazan",
+      "index": 6
+    },
+    {
+      "name": "Dublex Suit",
+      "size": "70 m2",
+      "features": [
+        "Merkezi Klima",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "46.080 ₺",
+      "originalPrice": "46.080 ₺",
+      "tbPoints": "1382 TB Puan Kazan",
+      "index": 7
+    },
+    {
+      "name": "Köşe Oda",
+      "size": "79 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "48.600 ₺",
+      "originalPrice": "48.600 ₺",
+      "tbPoints": "1458 TB Puan Kazan",
+      "index": 8
+    },
+    {
+      "name": "Executive Suit",
+      "size": "97 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "51.120 ₺",
+      "originalPrice": "51.120 ₺",
+      "tbPoints": "1534 TB Puan Kazan",
+      "index": 9
+    },
+    {
+      "name": "Laguna Dublex Suit (Swim Up)",
+      "size": "70 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "72.657 ₺",
+      "originalPrice": "72.657 ₺",
+      "tbPoints": "2180 TB Puan Kazan",
+      "index": 10
+    },
+    {
+      "name": "Bahçe Aile Suit (2 Yatak Odalı)",
+      "size": "110 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "105.948 ₺",
+      "originalPrice": "105.948 ₺",
+      "tbPoints": "3178 TB Puan Kazan",
+      "index": 11
+    },
+    {
+      "name": "Bahçe Aile Suit (3 Yatak Odalı)",
+      "size": "220 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "113.967 ₺",
+      "originalPrice": "113.967 ₺",
+      "tbPoints": "3419 TB Puan Kazan",
+      "index": 12
+    },
+    {
+      "name": "Secret Villas",
+      "size": "220 m2",
+      "features": [
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "İnternet",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "324.000 ₺",
+      "originalPrice": "324.000 ₺",
+      "tbPoints": "9720 TB Puan Kazan",
+      "index": 13
+    },
+    {
+      "name": "Style Diamond Villa",
+      "size": "220 m2",
+      "features": [
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "342.000 ₺",
+      "originalPrice": "342.000 ₺",
+      "tbPoints": "10260 TB Puan Kazan",
+      "index": 14
+    },
+    {
+      "name": "Sunset Villa",
+      "size": "220 m2",
+      "features": [
+        "Seramik Zemin",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "İnternet",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "360.000 ₺",
+      "originalPrice": "360.000 ₺",
+      "tbPoints": "10800 TB Puan Kazan",
+      "index": 15
+    },
+    {
+      "name": "Elegance Diamond Villa",
+      "size": "220 m2",
+      "features": [
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "İnternet",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "378.000 ₺",
+      "originalPrice": "378.000 ₺",
+      "tbPoints": "11340 TB Puan Kazan",
+      "index": 16
+    },
+    {
+      "name": "Infinity Diamond Villa",
+      "size": "330 m2",
+      "features": [
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "396.000 ₺",
+      "originalPrice": "396.000 ₺",
+      "tbPoints": "11880 TB Puan Kazan",
+      "index": 17
+    },
+    {
+      "name": "Serenity Diamond Villa",
+      "size": "330 m2",
+      "features": [
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "414.000 ₺",
+      "originalPrice": "414.000 ₺",
+      "tbPoints": "12420 TB Puan Kazan",
+      "index": 18
+    },
+    {
+      "name": "Royal Diamond Villa",
+      "size": "330 m2",
+      "features": [
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "481.500 ₺",
+      "originalPrice": "481.500 ₺",
+      "tbPoints": "14445 TB Puan Kazan",
+      "index": 19
+    },
+    {
+      "name": "Presidential Diamond Villa",
+      "size": "600 m2",
+      "features": [
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV",
+        "Emanet Kasa",
+        "0-12 Yaş Ücretsiz"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "571.500 ₺",
+      "originalPrice": "571.500 ₺",
+      "tbPoints": "17145 TB Puan Kazan",
+      "index": 20
+    },
+    {
+      "name": "Havuz Bağlantılı Bahçe Superior Oda",
+      "size": "32 m2",
+      "features": [
+        "Merkezi Klima",
+        "Seramik Zemin",
+        "Saç Kurutma Makinası",
+        "LCD / Plazma TV"
+      ],
+      "concept": "Luxury Her Şey Dahil",
+      "price": "",
+      "originalPrice": "",
+      "tbPoints": "1107 TB Puan Kazan",
+      "index": 21
+    }
+  ],
+  "scrapedAt": "2025-07-29T20:08:24.589Z",
+  "searchParams": {
+    "hotelName": "fashiontv-luxe-resort",
+    "checkInDate": "21.08.2025",
+    "checkOutDate": "23.08.2025",
+    "adults": 2,
+    "children": 0,
+    "childAges": []
+  },
+  "scraper": "TatilBudurScraper"
+}

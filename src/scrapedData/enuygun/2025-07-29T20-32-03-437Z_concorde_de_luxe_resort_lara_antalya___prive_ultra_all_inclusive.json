@@ -1,0 +1,30 @@
+{
+  "success": true,
+  "hotelName": "Concorde De Luxe Resort Lara Antalya – Prive Ultra All Inclusive",
+  "rooms": [
+    {
+      "name": "Royal Suıte",
+      "size": "82 m²",
+      "features": [
+        "Klima",
+        "Tekerlekli sandalye kullanımına uygun",
+        "Minibar"
+      ],
+      "concept": "Her Şey Dahil",
+      "roomClass": "İptal edilemez",
+      "discountLabel": "%56 indirim",
+      "originalPrice": "176.215 TL",
+      "finalPrice": "77.535 TL",
+      "index": 0
+    }
+  ],
+  "scrapedAt": "2025-07-29T20:32:03.438Z",
+  "searchParams": {
+    "hotelName": "Concorde De Luxe Resort Lara Antalya",
+    "checkInDate": "30.07.2025",
+    "checkOutDate": "05.08.2025",
+    "adults": 2,
+    "children": 0
+  },
+  "scraper": "EnuygunScraper"
+}

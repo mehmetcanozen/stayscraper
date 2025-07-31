@@ -1,0 +1,746 @@
+{
+  "hotelName": "Concorde De Luxe Resort",
+  "hotelId": "102145",
+  "searchParams": {
+    "checkInDate": "2025-07-31",
+    "checkOutDate": "2025-08-01",
+    "adults": 2,
+    "children": 1,
+    "childAges": [
+      5
+    ]
+  },
+  "rooms": [
+    {
+      "roomName": "Deluxe Balkonlu Oda, Deniz Manzaralı (Balkonlu)",
+      "displayName": "Deluxe Balkonlu Oda, Deniz Manzaralı (Balkonlu) - 32 m2",
+      "roomSize": 32,
+      "roomSizeUnit": "m2",
+      "price": 27650,
+      "currency": "TRY",
+      "boardType": "Ultra Her Şey Dahil",
+      "isRefundable": false,
+      "attributes": [
+        {
+          "attributeTag": "ViewType",
+          "attributeValue": "Deniz Manzaralı",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/ViewType.svg"
+        },
+        {
+          "attributeTag": "HasBalcony",
+          "attributeValue": "Balkonlu",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/HasBalcony.svg"
+        },
+        {
+          "attributeTag": "RoomType",
+          "attributeValue": "Deluxe Oda Balkonlu Oda",
+          "icon": null
+        },
+        {
+          "attributeTag": "RoomSize",
+          "attributeValue": "32 m2",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/RoomSize.svg"
+        }
+      ],
+      "mediaFiles": [
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921063_1.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921064_2.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921065_3_3.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        }
+      ],
+      "offers": [
+        {
+          "id": "2$2$TR~^005^~23504~^005^~27650.0~^005^~6~^005^~27650.0~^005^~8c45e351-0fec-4c89-bedf-f080302d4119",
+          "availability": 1,
+          "expiresOn": "2025-07-30T12:12:45.4432372Z",
+          "isAvailable": true,
+          "isRefundable": false,
+          "boardItem": {
+            "id": "16",
+            "name": "Ultra Her Şey Dahil",
+            "boardCategoryId": 44,
+            "boardCategoryName": "Ultra Her Şey Dahil",
+            "showOnCard": true,
+            "priority": 6
+          },
+          "price": {
+            "amount": 27650,
+            "currency": "TRY",
+            "fakeAmount": 27650,
+            "discount": 0,
+            "discountRatio": 0,
+            "virtualAmount": 27650,
+            "offerDiscounts": []
+          },
+          "dailyPrice": 27650,
+          "dailyRoomPrice": 27650,
+          "roomPrice": 27650,
+          "cancellationPolicies": [
+            {
+              "beginDate": "0001-01-01T00:00:00",
+              "dueDate": "2025-07-30T14:45:08.8977347",
+              "modifiedDueDate": "2025-07-30T14:45:08.8977347",
+              "price": {
+                "amount": 27650,
+                "currency": "TRY",
+                "fakeAmount": 0,
+                "discount": 0,
+                "discountRatio": 0,
+                "virtualAmount": 0,
+                "offerDiscounts": []
+              },
+              "roomNumber": null
+            }
+          ],
+          "supplier": {
+            "name": "OTELFIYAT"
+          },
+          "refundableInfo": 2,
+          "handicaps": [],
+          "paymentOptions": [],
+          "taxInformation": {
+            "accommodationTaxInfo": {
+              "included": false,
+              "percent": 0
+            }
+          },
+          "additionalInfo": [],
+          "display": true,
+          "foreignCurrency": false,
+          "travellers": [
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 2,
+              "age": 5
+            }
+          ],
+          "roomDivedTravellers": {
+            "0": [
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 2,
+                "age": 5
+              }
+            ]
+          },
+          "payInHotel": false,
+          "freeChildAges": [],
+          "isHandicaps": false
+        }
+      ]
+    },
+    {
+      "roomName": "Junior Suit Deluxe Balkonlu Oda (Balkonlu)",
+      "displayName": "Junior Suit Deluxe Balkonlu Oda (Balkonlu)",
+      "roomSize": 0,
+      "roomSizeUnit": "m2",
+      "price": 38020,
+      "currency": "TRY",
+      "boardType": "Ultra Her Şey Dahil",
+      "isRefundable": false,
+      "attributes": [
+        {
+          "attributeTag": "HasBalcony",
+          "attributeValue": "Balkonlu",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/HasBalcony.svg"
+        },
+        {
+          "attributeTag": "RoomType",
+          "attributeValue": "Junior Suit Oda Deluxe Oda Balkonlu Oda",
+          "icon": null
+        }
+      ],
+      "mediaFiles": [
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921475_1.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921475_2.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921476_3_3.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        }
+      ],
+      "offers": [
+        {
+          "id": "2$2$TR~^005^~23504~^005^~38020.0~^005^~6~^005^~38020.0~^005^~5e682013-c1c1-442e-8ddb-103d0c432b2d",
+          "availability": 1,
+          "expiresOn": "2025-07-30T12:12:45.4432372Z",
+          "isAvailable": true,
+          "isRefundable": false,
+          "boardItem": {
+            "id": "16",
+            "name": "Ultra Her Şey Dahil",
+            "boardCategoryId": 44,
+            "boardCategoryName": "Ultra Her Şey Dahil",
+            "showOnCard": true,
+            "priority": 6
+          },
+          "price": {
+            "amount": 38020,
+            "currency": "TRY",
+            "fakeAmount": 38020,
+            "discount": 0,
+            "discountRatio": 0,
+            "virtualAmount": 38020,
+            "offerDiscounts": []
+          },
+          "dailyPrice": 38020,
+          "dailyRoomPrice": 38020,
+          "roomPrice": 38020,
+          "cancellationPolicies": [
+            {
+              "beginDate": "0001-01-01T00:00:00",
+              "dueDate": "2025-07-30T14:45:08.8977589",
+              "modifiedDueDate": "2025-07-30T14:45:08.8977589",
+              "price": {
+                "amount": 38020,
+                "currency": "TRY",
+                "fakeAmount": 0,
+                "discount": 0,
+                "discountRatio": 0,
+                "virtualAmount": 0,
+                "offerDiscounts": []
+              },
+              "roomNumber": null
+            }
+          ],
+          "supplier": {
+            "name": "OTELFIYAT"
+          },
+          "refundableInfo": 2,
+          "handicaps": [],
+          "paymentOptions": [],
+          "taxInformation": {
+            "accommodationTaxInfo": {
+              "included": false,
+              "percent": 0
+            }
+          },
+          "additionalInfo": [],
+          "display": true,
+          "foreignCurrency": false,
+          "travellers": [
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 2,
+              "age": 5
+            }
+          ],
+          "roomDivedTravellers": {
+            "0": [
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 2,
+                "age": 5
+              }
+            ]
+          },
+          "payInHotel": false,
+          "freeChildAges": [],
+          "isHandicaps": false
+        }
+      ]
+    },
+    {
+      "roomName": "Aile Deluxe Dublex Suit Dubleks Balkonlu Odası, Deniz Manzaralı (Balkonlu)",
+      "displayName": "Aile Deluxe Dublex Suit Dubleks Balkonlu Odası, Deniz Manzaralı (Balkonlu)",
+      "roomSize": 0,
+      "roomSizeUnit": "m2",
+      "price": 45620,
+      "currency": "TRY",
+      "boardType": "Ultra Her Şey Dahil",
+      "isRefundable": false,
+      "attributes": [
+        {
+          "attributeTag": "ViewType",
+          "attributeValue": "Deniz Manzaralı",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/ViewType.svg"
+        },
+        {
+          "attributeTag": "HasBalcony",
+          "attributeValue": "Balkonlu",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/HasBalcony.svg"
+        },
+        {
+          "attributeTag": "RoomType",
+          "attributeValue": "Aile Odası Deluxe Oda Dublex Suit Oda Dubleks Oda Balkonlu Oda",
+          "icon": null
+        }
+      ],
+      "mediaFiles": [
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728920819_1.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728920820_2.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728920821_3_3.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        }
+      ],
+      "offers": [
+        {
+          "id": "2$2$TR~^005^~23504~^005^~45620.0~^005^~6~^005^~45620.0~^005^~12c0dff4-e43d-42c8-94a8-ea617c6d9f57",
+          "availability": 1,
+          "expiresOn": "2025-07-30T12:12:45.4432372Z",
+          "isAvailable": true,
+          "isRefundable": false,
+          "boardItem": {
+            "id": "16",
+            "name": "Ultra Her Şey Dahil",
+            "boardCategoryId": 44,
+            "boardCategoryName": "Ultra Her Şey Dahil",
+            "showOnCard": true,
+            "priority": 6
+          },
+          "price": {
+            "amount": 45620,
+            "currency": "TRY",
+            "fakeAmount": 45620,
+            "discount": 0,
+            "discountRatio": 0,
+            "virtualAmount": 45620,
+            "offerDiscounts": []
+          },
+          "dailyPrice": 45620,
+          "dailyRoomPrice": 45620,
+          "roomPrice": 45620,
+          "cancellationPolicies": [
+            {
+              "beginDate": "0001-01-01T00:00:00",
+              "dueDate": "2025-07-30T14:45:08.8977838",
+              "modifiedDueDate": "2025-07-30T14:45:08.8977838",
+              "price": {
+                "amount": 45620,
+                "currency": "TRY",
+                "fakeAmount": 0,
+                "discount": 0,
+                "discountRatio": 0,
+                "virtualAmount": 0,
+                "offerDiscounts": []
+              },
+              "roomNumber": null
+            }
+          ],
+          "supplier": {
+            "name": "OTELFIYAT"
+          },
+          "refundableInfo": 2,
+          "handicaps": [],
+          "paymentOptions": [],
+          "taxInformation": {
+            "accommodationTaxInfo": {
+              "included": false,
+              "percent": 0
+            }
+          },
+          "additionalInfo": [],
+          "display": true,
+          "foreignCurrency": false,
+          "travellers": [
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 2,
+              "age": 5
+            }
+          ],
+          "roomDivedTravellers": {
+            "0": [
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 2,
+                "age": 5
+              }
+            ]
+          },
+          "payInHotel": false,
+          "freeChildAges": [],
+          "isHandicaps": false
+        }
+      ]
+    },
+    {
+      "roomName": "Aile Deluxe Suit Balkonlu Odası, Deniz Manzaralı (Balkonlu)",
+      "displayName": "Aile Deluxe Suit Balkonlu Odası, Deniz Manzaralı (Balkonlu) - 68 m2",
+      "roomSize": 68,
+      "roomSizeUnit": "m2",
+      "price": 48380,
+      "currency": "TRY",
+      "boardType": "Ultra Her Şey Dahil",
+      "isRefundable": false,
+      "attributes": [
+        {
+          "attributeTag": "ViewType",
+          "attributeValue": "Deniz Manzaralı",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/ViewType.svg"
+        },
+        {
+          "attributeTag": "HasBalcony",
+          "attributeValue": "Balkonlu",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/HasBalcony.svg"
+        },
+        {
+          "attributeTag": "RoomType",
+          "attributeValue": "Aile Odası Deluxe Oda Suit Oda Balkonlu Oda",
+          "icon": null
+        },
+        {
+          "attributeTag": "RoomSize",
+          "attributeValue": "68 m2",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/RoomSize.svg"
+        }
+      ],
+      "mediaFiles": [
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921234_1.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921235_2.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728921236_3_3.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        }
+      ],
+      "offers": [
+        {
+          "id": "2$2$TR~^005^~23504~^005^~48380.0~^005^~6~^005^~48380.0~^005^~e62aa543-7b97-4a1d-8af3-4a32c44a2d45",
+          "availability": 1,
+          "expiresOn": "2025-07-30T12:12:45.4432372Z",
+          "isAvailable": true,
+          "isRefundable": false,
+          "boardItem": {
+            "id": "16",
+            "name": "Ultra Her Şey Dahil",
+            "boardCategoryId": 44,
+            "boardCategoryName": "Ultra Her Şey Dahil",
+            "showOnCard": true,
+            "priority": 6
+          },
+          "price": {
+            "amount": 48380,
+            "currency": "TRY",
+            "fakeAmount": 48380,
+            "discount": 0,
+            "discountRatio": 0,
+            "virtualAmount": 48380,
+            "offerDiscounts": []
+          },
+          "dailyPrice": 48380,
+          "dailyRoomPrice": 48380,
+          "roomPrice": 48380,
+          "cancellationPolicies": [
+            {
+              "beginDate": "0001-01-01T00:00:00",
+              "dueDate": "2025-07-30T14:45:08.8977985",
+              "modifiedDueDate": "2025-07-30T14:45:08.8977985",
+              "price": {
+                "amount": 48380,
+                "currency": "TRY",
+                "fakeAmount": 0,
+                "discount": 0,
+                "discountRatio": 0,
+                "virtualAmount": 0,
+                "offerDiscounts": []
+              },
+              "roomNumber": null
+            }
+          ],
+          "supplier": {
+            "name": "OTELFIYAT"
+          },
+          "refundableInfo": 2,
+          "handicaps": [],
+          "paymentOptions": [],
+          "taxInformation": {
+            "accommodationTaxInfo": {
+              "included": false,
+              "percent": 0
+            }
+          },
+          "additionalInfo": [],
+          "display": true,
+          "foreignCurrency": false,
+          "travellers": [
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 2,
+              "age": 5
+            }
+          ],
+          "roomDivedTravellers": {
+            "0": [
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 2,
+                "age": 5
+              }
+            ]
+          },
+          "payInHotel": false,
+          "freeChildAges": [],
+          "isHandicaps": false
+        }
+      ]
+    },
+    {
+      "roomName": "Deluxe Grand Suit Balkonlu Oda, Deniz Manzaralı (Balkonlu)",
+      "displayName": "Deluxe Grand Suit Balkonlu Oda, Deniz Manzaralı (Balkonlu) - 68 m2",
+      "roomSize": 68,
+      "roomSizeUnit": "m2",
+      "price": 63590,
+      "currency": "TRY",
+      "boardType": "Ultra Her Şey Dahil",
+      "isRefundable": false,
+      "attributes": [
+        {
+          "attributeTag": "ViewType",
+          "attributeValue": "Deniz Manzaralı",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/ViewType.svg"
+        },
+        {
+          "attributeTag": "HasBalcony",
+          "attributeValue": "Balkonlu",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/HasBalcony.svg"
+        },
+        {
+          "attributeTag": "RoomType",
+          "attributeValue": "Deluxe Oda Grand Suit Oda Balkonlu Oda",
+          "icon": null
+        },
+        {
+          "attributeTag": "RoomSize",
+          "attributeValue": "68 m2",
+          "icon": "https://s3.eu-central-1.amazonaws.com/static.obilet.com/images/hotel/room/RoomSize.svg"
+        }
+      ],
+      "mediaFiles": [
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728920666_1.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728920667_2.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        },
+        {
+          "url": null,
+          "urlFull": "https://www.otelfiyat.com/media/oda_resim/buyuk/1728920667_3_3.jpg",
+          "orderNumber": 0,
+          "imageCategoryId": 0,
+          "imageCategoryName": null
+        }
+      ],
+      "offers": [
+        {
+          "id": "2$2$TR~^005^~23504~^005^~63590.0~^005^~6~^005^~63590.0~^005^~2f8a6aba-bb49-4b4e-adaa-2d8ed3fe4d27",
+          "availability": 1,
+          "expiresOn": "2025-07-30T12:12:45.4432372Z",
+          "isAvailable": true,
+          "isRefundable": false,
+          "boardItem": {
+            "id": "16",
+            "name": "Ultra Her Şey Dahil",
+            "boardCategoryId": 44,
+            "boardCategoryName": "Ultra Her Şey Dahil",
+            "showOnCard": true,
+            "priority": 6
+          },
+          "price": {
+            "amount": 63590,
+            "currency": "TRY",
+            "fakeAmount": 63590,
+            "discount": 0,
+            "discountRatio": 0,
+            "virtualAmount": 63590,
+            "offerDiscounts": []
+          },
+          "dailyPrice": 63590,
+          "dailyRoomPrice": 63590,
+          "roomPrice": 63590,
+          "cancellationPolicies": [
+            {
+              "beginDate": "0001-01-01T00:00:00",
+              "dueDate": "2025-07-30T14:45:08.8978135",
+              "modifiedDueDate": "2025-07-30T14:45:08.8978135",
+              "price": {
+                "amount": 63590,
+                "currency": "TRY",
+                "fakeAmount": 0,
+                "discount": 0,
+                "discountRatio": 0,
+                "virtualAmount": 0,
+                "offerDiscounts": []
+              },
+              "roomNumber": null
+            }
+          ],
+          "supplier": {
+            "name": "OTELFIYAT"
+          },
+          "refundableInfo": 2,
+          "handicaps": [],
+          "paymentOptions": [],
+          "taxInformation": {
+            "accommodationTaxInfo": {
+              "included": false,
+              "percent": 0
+            }
+          },
+          "additionalInfo": [],
+          "display": true,
+          "foreignCurrency": false,
+          "travellers": [
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 1,
+              "age": 0
+            },
+            {
+              "type": 2,
+              "age": 5
+            }
+          ],
+          "roomDivedTravellers": {
+            "0": [
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 1,
+                "age": 0
+              },
+              {
+                "type": 2,
+                "age": 5
+              }
+            ]
+          },
+          "payInHotel": false,
+          "freeChildAges": [],
+          "isHandicaps": false
+        }
+      ]
+    }
+  ],
+  "scrapedAt": "2025-07-30T11:45:18.287Z"
+}
